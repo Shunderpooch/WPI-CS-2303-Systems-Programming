@@ -17,13 +17,13 @@ This was a simple C program to learn how to work with command-line input, Unix c
 
 #### Compiling Lab 1
 
-```shell
+```bash
 $ gcc -o Lab1 Lab1.c
 ```
 
 #### Running Lab 1
 
-```shell
+```bash
 $ ./Lab1
 ```
 
