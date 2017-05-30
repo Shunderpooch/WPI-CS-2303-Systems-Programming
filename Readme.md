@@ -146,7 +146,7 @@ Lab 4 can use the test data "Lab4.dat" as piped input for simple tests.
 
 ### Program 4
 Program 4 generated cross references of every word (case-insensitive) that it finds in an ASCII text file with a Binary Search Tree data structure, and sorts these words in order alphabetically, noting the number of occurences of the word and the lines the word occurs on.
-Further insight into this program can be found [Here] (http://web.cs.wpi.edu/~rek/Systems/C14/Program4_C14.pdf)
+Further insight into this program can be found [Here](http://web.cs.wpi.edu/~rek/Systems/C14/Program4_C14.pdf).
 
 This program was done in pairs, and I do not have permission to share my partner's name. I will refer to them in files as "Program Partner".
 
@@ -170,7 +170,7 @@ Included in the same folder is sample data such as the US Constitution "US_Const
 
 ### Lab 5
 Lab 5 is mainly preparation for Program 5, a complete MANET Simulation. It is a direct simplification, with non-moving mule nodes from sender to receiver. A sender sends 100 packets of varying transmission time and propogation time across two mules with another sender, all to a receiver, with 100ms simulation time slices, or sims. This lab also helped introduce file readers and build guards.
-For further reading on this lab concept, look [Here] (http://web.cs.wpi.edu/~rek/Systems/C14/Lab5_C14.pdf) for a stronger understanding of Lab requirements.
+For further reading on this lab concept, look [Here](http://web.cs.wpi.edu/~rek/Systems/C14/Lab5_C14.pdf) for a stronger understanding of Lab requirements.
 
 #### Compiling Lab 5
 
@@ -195,6 +195,6 @@ $ make
 ```
 
 #### Running Program 5
-There are several parameters that should be followed closely- change the prog5.txt file to change different source nodes- change these source nodes based on the guidelines of the [Program Description] (http://web.cs.wpi.edu/~rek/Systems/C14/Program5_C14.pdf). Sample output is provided [Here] (/Program5/output.txt)
+There are several parameters that should be followed closely- change the prog5.txt file to change different source nodes- change these source nodes based on the guidelines of the [Program Description](http://web.cs.wpi.edu/~rek/Systems/C14/Program5_C14.pdf). Sample output is provided [Here](/Program5/output.txt)
 
 
