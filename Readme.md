@@ -15,7 +15,7 @@ There were two main sets of assignments for this course, Labs and Programs. Labs
 ## Project Directory
 The order follows as a timeline of coursework: We alternated between simplistic, concept-level labs and larger, more comprehensive and polished projects.
 |Project Description|Project Source|Project Readme|
-|-------------------|--------------|--------------|
+|:---               |:---          |:---          |
 |[Lab 1 Description](#Lab1)|[Lab 1 Source](/Lab1)|[Lab 1 Readme](/Lab1/README.txt)|
 |[Lab 5 Description](#Lab5)|[Lab 5 Source](/Lab5)|[Lab 5 Readme](/Lab5/README.txt)|
 
