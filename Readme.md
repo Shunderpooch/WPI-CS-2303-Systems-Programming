@@ -17,13 +17,13 @@ This was a simple C program to learn how to work with command-line input, Unix c
 
 #### Compiling Lab 1
 
-```sh
+```shell
 $ gcc -o Lab1 Lab1.c
 ```
 
 #### Running Lab 1
 
-```sh
+```shell
 $ ./Lab1
 ```
 
@@ -61,7 +61,7 @@ $ make
 in the folder directory of the project.
 
 #### Running Lab 2
-Test data is included, [Here, as Lab2.txt](/Lab2.txt), and can be piped in. Example output is included as well, [Here, as Lab2.out](/Lab2/Lab2.out).
+Test data is included, [Here as Lab2.txt](/Lab2.txt), and can be piped in. Example output is included as well, [Here as Lab2.out](/Lab2/Lab2.out).
 
 ```sh
 $ ./Lab2
