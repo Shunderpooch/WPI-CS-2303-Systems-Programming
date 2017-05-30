@@ -13,7 +13,7 @@ The professor above all else encouraged a meaningful understanding of the C comp
 There were two main sets of assignments for this course, Labs and Programs. Labs were usually simpler, one-off ideas or concepts, and Programs covered a multitude of topics and were significantly more intricate. Below, I'll include a short summary of each Lab and Program we worked on, along with instructions on how to compile them.
 
 ## Project Directory
-    [Lab 5 Description](#Lab5): [Lab 5 Source](/Lab5)
+[Lab 5 Description](#Lab5): [Lab 5 Source](/Lab5)
 
 ### Lab 1
 This was a simple C program to learn how to work with command-line input, Unix commands, and return a result based on an average of numbers.
