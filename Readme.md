@@ -2,7 +2,9 @@
 
 ## The course
 This course was taught by Professor Robert Kinicki, from January to March 2014.
+
 [Course Website](http://web.cs.wpi.edu/~rek/Systems/C14/C14.html)
+
 We covered a massive range of Systems Programming Concepts, Data Structures, and intense simulations in C and C++ over the course of the class.
 
 The professor above all else encouraged a meaningful understanding of the C compiler, and comprehension of pointers, arrays, permissions, memory allocation, and other lower-level programming concepts. 
