@@ -1,0 +1,1510 @@
+Initial print
+Node has been created.
+Please provide the process 1 in the form: processID, arrivalTime, CPUTime
+Please provide the process 2 in the form: processID, arrivalTime, CPUTime
+Please provide the process 3 in the form: processID, arrivalTime, CPUTime
+Please provide the process 4 in the form: processID, arrivalTime, CPUTime
+Please provide the process 5 in the form: processID, arrivalTime, CPUTime
+Please provide the process 6 in the form: processID, arrivalTime, CPUTime
+Please provide the process 7 in the form: processID, arrivalTime, CPUTime
+Please provide the process 8 in the form: processID, arrivalTime, CPUTime
+Please provide the process 9 in the form: processID, arrivalTime, CPUTime
+Please provide the process 10 in the form: processID, arrivalTime, CPUTime
+Please provide the process 11 in the form: processID, arrivalTime, CPUTime
+Please provide the process 12 in the form: processID, arrivalTime, CPUTime
+Please provide the process 13 in the form: processID, arrivalTime, CPUTime
+Please provide the process 14 in the form: processID, arrivalTime, CPUTime
+Please provide the process 15 in the form: processID, arrivalTime, CPUTime
+Please provide the process 16 in the form: processID, arrivalTime, CPUTime
+Please provide the process 17 in the form: processID, arrivalTime, CPUTime
+Please provide the process 18 in the form: processID, arrivalTime, CPUTime
+Please provide the process 19 in the form: processID, arrivalTime, CPUTime
+Please provide the process 20 in the form: processID, arrivalTime, CPUTime
+Please provide the process 21 in the form: processID, arrivalTime, CPUTime
+Please provide the process 22 in the form: processID, arrivalTime, CPUTime
+Please provide the process 23 in the form: processID, arrivalTime, CPUTime
+Please provide the process 24 in the form: processID, arrivalTime, CPUTime
+Please provide the process 25 in the form: processID, arrivalTime, CPUTime
+Please provide the process 26 in the form: processID, arrivalTime, CPUTime
+Please provide the process 27 in the form: processID, arrivalTime, CPUTime
+Please provide the process 28 in the form: processID, arrivalTime, CPUTime
+Please provide the process 29 in the form: processID, arrivalTime, CPUTime
+Please provide the process 30 in the form: processID, arrivalTime, CPUTime
+Please provide the process 31 in the form: processID, arrivalTime, CPUTime
+Please provide the process 32 in the form: processID, arrivalTime, CPUTime
+Please provide the process 33 in the form: processID, arrivalTime, CPUTime
+Please provide the process 34 in the form: processID, arrivalTime, CPUTime
+Please provide the process 35 in the form: processID, arrivalTime, CPUTime
+Please provide the process 36 in the form: processID, arrivalTime, CPUTime
+Node has been created.
+The processor is about to take an input. The System time is 0.
+ 
+The processor is currently working on:
+This node has processID 7 with an arrivalTime 0 and a CPU Time of 6 
+Process 7 has been worked at for 0.400000 seconds. The processor is moving it to the back and starting the next.
+The System time is 4 Hundreds of Milliseconds.
+
+The processor is about to take an input. The System time is 4.
+ 
+The processor is currently working on:
+This node has processID 7 with an arrivalTime 0 and a CPU Time of 2 
+
+Process 7 has completed in 0.600000 seconds.
+The time 0.600000 seconds was added to the list at position 1
+The System time is 6 Hundreds of Milliseconds.
+
+The processor is about to take an input. The System time is 6.
+ 
+The processor is currently working on:
+This node has processID 2001 with an arrivalTime 0 and a CPU Time of 20 
+Process 2001 has been worked at for 0.400000 seconds. The processor is moving it to the back and starting the next.
+The System time is 10 Hundreds of Milliseconds.
+
+The processor is about to take an input. The System time is 10.
+ 
+The processor is currently working on:
+This node has processID 2002 with an arrivalTime 1 and a CPU Time of 10 
+Process 2002 has been worked at for 0.400000 seconds. The processor is moving it to the back and starting the next.
+The System time is 14 Hundreds of Milliseconds.
+
+The processor is about to take an input. The System time is 14.
+ 
+The processor is currently working on:
+This node has processID 2001 with an arrivalTime 0 and a CPU Time of 16 
+Process 2001 has been worked at for 0.400000 seconds. The processor is moving it to the back and starting the next.
+The System time is 18 Hundreds of Milliseconds.
+
+The processor is currently working on:
+This node has processID 2005 with an arrivalTime 2 and a CPU Time of 10 
+Process 2005 has been worked at for 0.400000 seconds. The processor is moving it to the back and starting the next.
+The System time is 22 Hundreds of Milliseconds.
+
+The processor is currently working on:
+This node has processID 2002 with an arrivalTime 1 and a CPU Time of 6 
+Process 2002 has been worked at for 0.400000 seconds. The processor is moving it to the back and starting the next.
+The System time is 26 Hundreds of Milliseconds.
+
+The processor is currently working on:
+This node has processID 2007 with an arrivalTime 3 and a CPU Time of 4 
+
+Process 2007 has completed in 2.700000 seconds.
+The time 2.700000 seconds was added to the list at position 2
+The System time is 30 Hundreds of Milliseconds.
+
+The processor is currently working on:
+This node has processID 2001 with an arrivalTime 0 and a CPU Time of 12 
+Process 2001 has been worked at for 0.400000 seconds. The processor is moving it to the back and starting the next.
+The System time is 34 Hundreds of Milliseconds.
+
+The processor is currently working on:
+This node has processID 2005 with an arrivalTime 2 and a CPU Time of 6 
+Process 2005 has been worked at for 0.400000 seconds. The processor is moving it to the back and starting the next.
+The System time is 38 Hundreds of Milliseconds.
+
+The processor is currently working on:
+This node has processID 2002 with an arrivalTime 1 and a CPU Time of 2 
+
+Process 2002 has completed in 3.900000 seconds.
+The time 3.900000 seconds was added to the list at position 3
+The System time is 40 Hundreds of Milliseconds.
+
+The processor is currently working on:
+This node has processID 2001 with an arrivalTime 0 and a CPU Time of 8 
+Process 2001 has been worked at for 0.400000 seconds. The processor is moving it to the back and starting the next.
+The System time is 44 Hundreds of Milliseconds.
+
+The processor is currently working on:
+This node has processID 2005 with an arrivalTime 2 and a CPU Time of 2 
+
+Process 2005 has completed in 4.400000 seconds.
+The time 4.400000 seconds was added to the list at position 4
+The System time is 46 Hundreds of Milliseconds.
+
+The processor is currently working on:
+This node has processID 2001 with an arrivalTime 0 and a CPU Time of 4 
+
+Process 2001 has completed in 5.000000 seconds.
+The time 5.000000 seconds was added to the list at position 5
+The System time is 50 Hundreds of Milliseconds.
+
+WHERE'S THE NACHOS???
+WHERE'S THE NACHOS???
+WHERE'S THE NACHOS???
+WHERE'S THE NACHOS???
+WHERE'S THE NACHOS???
+WHERE'S THE NACHOS???
+WHERE'S THE NACHOS???
+WHERE'S THE NACHOS???
+WHERE'S THE NACHOS???
+WHERE'S THE NACHOS???
+WHERE'S THE NACHOS???
+WHERE'S THE NACHOS???
+WHERE'S THE NACHOS???
+WHERE'S THE NACHOS???
+WHERE'S THE NACHOS???
+WHERE'S THE NACHOS???
+WHERE'S THE NACHOS???
+WHERE'S THE NACHOS???
+WHERE'S THE NACHOS???
+WHERE'S THE NACHOS???
+WHERE'S THE NACHOS???
+The processor is about to take an input. The System time is 71.
+ 
+The processor is currently working on:
+This node has processID 1006 with an arrivalTime 71 and a CPU Time of 20 
+Process 1006 has been worked at for 0.400000 seconds. The processor is moving it to the back and starting the next.
+The System time is 75 Hundreds of Milliseconds.
+
+The processor is about to take an input. The System time is 75.
+ 
+The processor is currently working on:
+This node has processID 1006 with an arrivalTime 71 and a CPU Time of 16 
+Process 1006 has been worked at for 0.400000 seconds. The processor is moving it to the back and starting the next.
+The System time is 79 Hundreds of Milliseconds.
+
+The processor is currently working on:
+This node has processID 1008 with an arrivalTime 72 and a CPU Time of 2 
+
+Process 1008 has completed in 0.900000 seconds.
+The time 0.900000 seconds was added to the list at position 6
+The System time is 81 Hundreds of Milliseconds.
+
+The processor is about to take an input. The System time is 81.
+ 
+The processor is currently working on:
+This node has processID 1006 with an arrivalTime 71 and a CPU Time of 12 
+Process 1006 has been worked at for 0.400000 seconds. The processor is moving it to the back and starting the next.
+The System time is 85 Hundreds of Milliseconds.
+
+The processor is about to take an input. The System time is 85.
+ 
+The processor is currently working on:
+This node has processID 1011 with an arrivalTime 80 and a CPU Time of 32 
+Process 1011 has been worked at for 0.400000 seconds. The processor is moving it to the back and starting the next.
+The System time is 89 Hundreds of Milliseconds.
+
+The processor is about to take an input. The System time is 89.
+ 
+The processor is currently working on:
+This node has processID 1006 with an arrivalTime 71 and a CPU Time of 8 
+Process 1006 has been worked at for 0.400000 seconds. The processor is moving it to the back and starting the next.
+The System time is 93 Hundreds of Milliseconds.
+
+The processor is currently working on:
+This node has processID 1010 with an arrivalTime 80 and a CPU Time of 21 
+Process 1010 has been worked at for 0.400000 seconds. The processor is moving it to the back and starting the next.
+The System time is 97 Hundreds of Milliseconds.
+
+The processor is currently working on:
+This node has processID 1011 with an arrivalTime 80 and a CPU Time of 28 
+Process 1011 has been worked at for 0.400000 seconds. The processor is moving it to the back and starting the next.
+The System time is 101 Hundreds of Milliseconds.
+
+The processor is currently working on:
+This node has processID 1111 with an arrivalTime 80 and a CPU Time of 53 
+Process 1111 has been worked at for 0.400000 seconds. The processor is moving it to the back and starting the next.
+The System time is 105 Hundreds of Milliseconds.
+
+The processor is currently working on:
+This node has processID 1006 with an arrivalTime 71 and a CPU Time of 4 
+
+Process 1006 has completed in 3.800000 seconds.
+The time 3.800000 seconds was added to the list at position 7
+The System time is 109 Hundreds of Milliseconds.
+
+The processor is currently working on:
+This node has processID 1010 with an arrivalTime 80 and a CPU Time of 17 
+Process 1010 has been worked at for 0.400000 seconds. The processor is moving it to the back and starting the next.
+The System time is 113 Hundreds of Milliseconds.
+
+The processor is currently working on:
+This node has processID 1011 with an arrivalTime 80 and a CPU Time of 24 
+Process 1011 has been worked at for 0.400000 seconds. The processor is moving it to the back and starting the next.
+The System time is 117 Hundreds of Milliseconds.
+
+The processor is currently working on:
+This node has processID 1111 with an arrivalTime 80 and a CPU Time of 49 
+Process 1111 has been worked at for 0.400000 seconds. The processor is moving it to the back and starting the next.
+The System time is 121 Hundreds of Milliseconds.
+
+The processor is currently working on:
+This node has processID 1010 with an arrivalTime 80 and a CPU Time of 13 
+Process 1010 has been worked at for 0.400000 seconds. The processor is moving it to the back and starting the next.
+The System time is 125 Hundreds of Milliseconds.
+
+The processor is currently working on:
+This node has processID 1011 with an arrivalTime 80 and a CPU Time of 20 
+Process 1011 has been worked at for 0.400000 seconds. The processor is moving it to the back and starting the next.
+The System time is 129 Hundreds of Milliseconds.
+
+The processor is currently working on:
+This node has processID 1111 with an arrivalTime 80 and a CPU Time of 45 
+Process 1111 has been worked at for 0.400000 seconds. The processor is moving it to the back and starting the next.
+The System time is 133 Hundreds of Milliseconds.
+
+The processor is currently working on:
+This node has processID 1010 with an arrivalTime 80 and a CPU Time of 9 
+Process 1010 has been worked at for 0.400000 seconds. The processor is moving it to the back and starting the next.
+The System time is 137 Hundreds of Milliseconds.
+
+The processor is currently working on:
+This node has processID 1011 with an arrivalTime 80 and a CPU Time of 16 
+Process 1011 has been worked at for 0.400000 seconds. The processor is moving it to the back and starting the next.
+The System time is 141 Hundreds of Milliseconds.
+
+The processor is currently working on:
+This node has processID 1111 with an arrivalTime 80 and a CPU Time of 41 
+Process 1111 has been worked at for 0.400000 seconds. The processor is moving it to the back and starting the next.
+The System time is 145 Hundreds of Milliseconds.
+
+The processor is currently working on:
+This node has processID 1010 with an arrivalTime 80 and a CPU Time of 5 
+Process 1010 has been worked at for 0.400000 seconds. The processor is moving it to the back and starting the next.
+The System time is 149 Hundreds of Milliseconds.
+
+The processor is currently working on:
+This node has processID 1011 with an arrivalTime 80 and a CPU Time of 12 
+Process 1011 has been worked at for 0.400000 seconds. The processor is moving it to the back and starting the next.
+The System time is 153 Hundreds of Milliseconds.
+
+The processor is currently working on:
+This node has processID 1111 with an arrivalTime 80 and a CPU Time of 37 
+Process 1111 has been worked at for 0.400000 seconds. The processor is moving it to the back and starting the next.
+The System time is 157 Hundreds of Milliseconds.
+
+The processor is currently working on:
+This node has processID 1010 with an arrivalTime 80 and a CPU Time of 1 
+
+Process 1010 has completed in 7.800000 seconds.
+The time 7.800000 seconds was added to the list at position 8
+The System time is 158 Hundreds of Milliseconds.
+
+The processor is currently working on:
+This node has processID 1011 with an arrivalTime 80 and a CPU Time of 8 
+Process 1011 has been worked at for 0.400000 seconds. The processor is moving it to the back and starting the next.
+The System time is 162 Hundreds of Milliseconds.
+
+The processor is currently working on:
+This node has processID 1111 with an arrivalTime 80 and a CPU Time of 33 
+Process 1111 has been worked at for 0.400000 seconds. The processor is moving it to the back and starting the next.
+The System time is 166 Hundreds of Milliseconds.
+
+The processor is currently working on:
+This node has processID 1011 with an arrivalTime 80 and a CPU Time of 4 
+
+Process 1011 has completed in 9.000000 seconds.
+The time 9.000000 seconds was added to the list at position 9
+The System time is 170 Hundreds of Milliseconds.
+
+The processor is currently working on:
+This node has processID 1111 with an arrivalTime 80 and a CPU Time of 29 
+Process 1111 has been worked at for 0.400000 seconds. The processor is moving it to the back and starting the next.
+The System time is 174 Hundreds of Milliseconds.
+
+The processor is currently working on:
+This node has processID 1111 with an arrivalTime 80 and a CPU Time of 25 
+Process 1111 has been worked at for 0.400000 seconds. The processor is moving it to the back and starting the next.
+The System time is 178 Hundreds of Milliseconds.
+
+The processor is currently working on:
+This node has processID 1111 with an arrivalTime 80 and a CPU Time of 21 
+Process 1111 has been worked at for 0.400000 seconds. The processor is moving it to the back and starting the next.
+The System time is 182 Hundreds of Milliseconds.
+
+The processor is currently working on:
+This node has processID 1111 with an arrivalTime 80 and a CPU Time of 17 
+Process 1111 has been worked at for 0.400000 seconds. The processor is moving it to the back and starting the next.
+The System time is 186 Hundreds of Milliseconds.
+
+The processor is currently working on:
+This node has processID 1111 with an arrivalTime 80 and a CPU Time of 13 
+Process 1111 has been worked at for 0.400000 seconds. The processor is moving it to the back and starting the next.
+The System time is 190 Hundreds of Milliseconds.
+
+The processor is currently working on:
+This node has processID 1111 with an arrivalTime 80 and a CPU Time of 9 
+Process 1111 has been worked at for 0.400000 seconds. The processor is moving it to the back and starting the next.
+The System time is 194 Hundreds of Milliseconds.
+
+The processor is currently working on:
+This node has processID 1111 with an arrivalTime 80 and a CPU Time of 5 
+Process 1111 has been worked at for 0.400000 seconds. The processor is moving it to the back and starting the next.
+The System time is 198 Hundreds of Milliseconds.
+
+The processor is currently working on:
+This node has processID 1111 with an arrivalTime 80 and a CPU Time of 1 
+
+Process 1111 has completed in 11.900000 seconds.
+The time 11.900000 seconds was added to the list at position 10
+The System time is 199 Hundreds of Milliseconds.
+
+WHERE'S THE NACHOS???
+The processor is about to take an input. The System time is 200.
+ 
+The processor is currently working on:
+This node has processID 3772 with an arrivalTime 200 and a CPU Time of 100 
+Process 3772 has been worked at for 0.400000 seconds. The processor is moving it to the back and starting the next.
+The System time is 204 Hundreds of Milliseconds.
+
+The processor is currently working on:
+This node has processID 3772 with an arrivalTime 200 and a CPU Time of 96 
+Process 3772 has been worked at for 0.400000 seconds. The processor is moving it to the back and starting the next.
+The System time is 208 Hundreds of Milliseconds.
+
+The processor is currently working on:
+This node has processID 3772 with an arrivalTime 200 and a CPU Time of 92 
+Process 3772 has been worked at for 0.400000 seconds. The processor is moving it to the back and starting the next.
+The System time is 212 Hundreds of Milliseconds.
+
+The processor is currently working on:
+This node has processID 3772 with an arrivalTime 200 and a CPU Time of 88 
+Process 3772 has been worked at for 0.400000 seconds. The processor is moving it to the back and starting the next.
+The System time is 216 Hundreds of Milliseconds.
+
+The processor is currently working on:
+This node has processID 3772 with an arrivalTime 200 and a CPU Time of 84 
+Process 3772 has been worked at for 0.400000 seconds. The processor is moving it to the back and starting the next.
+The System time is 220 Hundreds of Milliseconds.
+
+The processor is currently working on:
+This node has processID 3772 with an arrivalTime 200 and a CPU Time of 80 
+Process 3772 has been worked at for 0.400000 seconds. The processor is moving it to the back and starting the next.
+The System time is 224 Hundreds of Milliseconds.
+
+The processor is currently working on:
+This node has processID 3772 with an arrivalTime 200 and a CPU Time of 76 
+Process 3772 has been worked at for 0.400000 seconds. The processor is moving it to the back and starting the next.
+The System time is 228 Hundreds of Milliseconds.
+
+The processor is currently working on:
+This node has processID 3772 with an arrivalTime 200 and a CPU Time of 72 
+Process 3772 has been worked at for 0.400000 seconds. The processor is moving it to the back and starting the next.
+The System time is 232 Hundreds of Milliseconds.
+
+The processor is about to take an input. The System time is 232.
+ 
+The processor is currently working on:
+This node has processID 3772 with an arrivalTime 200 and a CPU Time of 68 
+Process 3772 has been worked at for 0.400000 seconds. The processor is moving it to the back and starting the next.
+The System time is 236 Hundreds of Milliseconds.
+
+The processor is about to take an input. The System time is 236.
+ 
+The processor is currently working on:
+This node has processID 3795 with an arrivalTime 230 and a CPU Time of 40 
+Process 3795 has been worked at for 0.400000 seconds. The processor is moving it to the back and starting the next.
+The System time is 240 Hundreds of Milliseconds.
+
+The processor is about to take an input. The System time is 240.
+ 
+The processor is currently working on:
+This node has processID 3772 with an arrivalTime 200 and a CPU Time of 64 
+Process 3772 has been worked at for 0.400000 seconds. The processor is moving it to the back and starting the next.
+The System time is 244 Hundreds of Milliseconds.
+
+The processor is about to take an input. The System time is 244.
+ 
+The processor is currently working on:
+This node has processID 3784 with an arrivalTime 230 and a CPU Time of 2 
+
+Process 3784 has completed in 1.600000 seconds.
+The time 1.600000 seconds was added to the list at position 11
+The System time is 246 Hundreds of Milliseconds.
+
+The processor is about to take an input. The System time is 246.
+ 
+The processor is currently working on:
+This node has processID 3795 with an arrivalTime 230 and a CPU Time of 36 
+Process 3795 has been worked at for 0.400000 seconds. The processor is moving it to the back and starting the next.
+The System time is 250 Hundreds of Milliseconds.
+
+The processor is currently working on:
+This node has processID 3777 with an arrivalTime 230 and a CPU Time of 3 
+
+Process 3777 has completed in 2.300000 seconds.
+The time 2.300000 seconds was added to the list at position 12
+The System time is 253 Hundreds of Milliseconds.
+
+The processor is currently working on:
+This node has processID 3772 with an arrivalTime 200 and a CPU Time of 60 
+Process 3772 has been worked at for 0.400000 seconds. The processor is moving it to the back and starting the next.
+The System time is 257 Hundreds of Milliseconds.
+
+The processor is currently working on:
+This node has processID 3779 with an arrivalTime 230 and a CPU Time of 4 
+
+Process 3779 has completed in 3.100000 seconds.
+The time 3.100000 seconds was added to the list at position 13
+The System time is 261 Hundreds of Milliseconds.
+
+The processor is currently working on:
+This node has processID 3788 with an arrivalTime 230 and a CPU Time of 1 
+
+Process 3788 has completed in 3.200000 seconds.
+The time 3.200000 seconds was added to the list at position 14
+The System time is 262 Hundreds of Milliseconds.
+
+The processor is currently working on:
+This node has processID 3795 with an arrivalTime 230 and a CPU Time of 32 
+Process 3795 has been worked at for 0.400000 seconds. The processor is moving it to the back and starting the next.
+The System time is 266 Hundreds of Milliseconds.
+
+The processor is currently working on:
+This node has processID 3772 with an arrivalTime 200 and a CPU Time of 56 
+Process 3772 has been worked at for 0.400000 seconds. The processor is moving it to the back and starting the next.
+The System time is 270 Hundreds of Milliseconds.
+
+The processor is currently working on:
+This node has processID 3795 with an arrivalTime 230 and a CPU Time of 28 
+Process 3795 has been worked at for 0.400000 seconds. The processor is moving it to the back and starting the next.
+The System time is 274 Hundreds of Milliseconds.
+
+The processor is currently working on:
+This node has processID 3772 with an arrivalTime 200 and a CPU Time of 52 
+Process 3772 has been worked at for 0.400000 seconds. The processor is moving it to the back and starting the next.
+The System time is 278 Hundreds of Milliseconds.
+
+The processor is currently working on:
+This node has processID 3795 with an arrivalTime 230 and a CPU Time of 24 
+Process 3795 has been worked at for 0.400000 seconds. The processor is moving it to the back and starting the next.
+The System time is 282 Hundreds of Milliseconds.
+
+The processor is currently working on:
+This node has processID 3772 with an arrivalTime 200 and a CPU Time of 48 
+Process 3772 has been worked at for 0.400000 seconds. The processor is moving it to the back and starting the next.
+The System time is 286 Hundreds of Milliseconds.
+
+The processor is currently working on:
+This node has processID 3795 with an arrivalTime 230 and a CPU Time of 20 
+Process 3795 has been worked at for 0.400000 seconds. The processor is moving it to the back and starting the next.
+The System time is 290 Hundreds of Milliseconds.
+
+The processor is currently working on:
+This node has processID 3772 with an arrivalTime 200 and a CPU Time of 44 
+Process 3772 has been worked at for 0.400000 seconds. The processor is moving it to the back and starting the next.
+The System time is 294 Hundreds of Milliseconds.
+
+The processor is currently working on:
+This node has processID 3795 with an arrivalTime 230 and a CPU Time of 16 
+Process 3795 has been worked at for 0.400000 seconds. The processor is moving it to the back and starting the next.
+The System time is 298 Hundreds of Milliseconds.
+
+The processor is currently working on:
+This node has processID 3772 with an arrivalTime 200 and a CPU Time of 40 
+Process 3772 has been worked at for 0.400000 seconds. The processor is moving it to the back and starting the next.
+The System time is 302 Hundreds of Milliseconds.
+
+The processor is currently working on:
+This node has processID 3795 with an arrivalTime 230 and a CPU Time of 12 
+Process 3795 has been worked at for 0.400000 seconds. The processor is moving it to the back and starting the next.
+The System time is 306 Hundreds of Milliseconds.
+
+The processor is currently working on:
+This node has processID 3772 with an arrivalTime 200 and a CPU Time of 36 
+Process 3772 has been worked at for 0.400000 seconds. The processor is moving it to the back and starting the next.
+The System time is 310 Hundreds of Milliseconds.
+
+The processor is currently working on:
+This node has processID 3795 with an arrivalTime 230 and a CPU Time of 8 
+Process 3795 has been worked at for 0.400000 seconds. The processor is moving it to the back and starting the next.
+The System time is 314 Hundreds of Milliseconds.
+
+The processor is currently working on:
+This node has processID 3772 with an arrivalTime 200 and a CPU Time of 32 
+Process 3772 has been worked at for 0.400000 seconds. The processor is moving it to the back and starting the next.
+The System time is 318 Hundreds of Milliseconds.
+
+The processor is currently working on:
+This node has processID 3795 with an arrivalTime 230 and a CPU Time of 4 
+
+Process 3795 has completed in 9.200000 seconds.
+The time 9.200000 seconds was added to the list at position 15
+The System time is 322 Hundreds of Milliseconds.
+
+The processor is currently working on:
+This node has processID 3772 with an arrivalTime 200 and a CPU Time of 28 
+Process 3772 has been worked at for 0.400000 seconds. The processor is moving it to the back and starting the next.
+The System time is 326 Hundreds of Milliseconds.
+
+The processor is currently working on:
+This node has processID 3772 with an arrivalTime 200 and a CPU Time of 24 
+Process 3772 has been worked at for 0.400000 seconds. The processor is moving it to the back and starting the next.
+The System time is 330 Hundreds of Milliseconds.
+
+The processor is currently working on:
+This node has processID 3772 with an arrivalTime 200 and a CPU Time of 20 
+Process 3772 has been worked at for 0.400000 seconds. The processor is moving it to the back and starting the next.
+The System time is 334 Hundreds of Milliseconds.
+
+The processor is currently working on:
+This node has processID 3772 with an arrivalTime 200 and a CPU Time of 16 
+Process 3772 has been worked at for 0.400000 seconds. The processor is moving it to the back and starting the next.
+The System time is 338 Hundreds of Milliseconds.
+
+The processor is currently working on:
+This node has processID 3772 with an arrivalTime 200 and a CPU Time of 12 
+Process 3772 has been worked at for 0.400000 seconds. The processor is moving it to the back and starting the next.
+The System time is 342 Hundreds of Milliseconds.
+
+The processor is currently working on:
+This node has processID 3772 with an arrivalTime 200 and a CPU Time of 8 
+Process 3772 has been worked at for 0.400000 seconds. The processor is moving it to the back and starting the next.
+The System time is 346 Hundreds of Milliseconds.
+
+The processor is currently working on:
+This node has processID 3772 with an arrivalTime 200 and a CPU Time of 4 
+
+Process 3772 has completed in 15.000000 seconds.
+The time 15.000000 seconds was added to the list at position 16
+The System time is 350 Hundreds of Milliseconds.
+
+The processor is about to take an input. The System time is 350.
+ 
+The processor is currently working on:
+This node has processID 8119 with an arrivalTime 350 and a CPU Time of 9 
+Process 8119 has been worked at for 0.400000 seconds. The processor is moving it to the back and starting the next.
+The System time is 354 Hundreds of Milliseconds.
+
+The processor is about to take an input. The System time is 354.
+ 
+The processor is currently working on:
+This node has processID 8119 with an arrivalTime 350 and a CPU Time of 5 
+Process 8119 has been worked at for 0.400000 seconds. The processor is moving it to the back and starting the next.
+The System time is 358 Hundreds of Milliseconds.
+
+The processor is currently working on:
+This node has processID 8129 with an arrivalTime 351 and a CPU Time of 6 
+Process 8129 has been worked at for 0.400000 seconds. The processor is moving it to the back and starting the next.
+The System time is 362 Hundreds of Milliseconds.
+
+The processor is currently working on:
+This node has processID 8119 with an arrivalTime 350 and a CPU Time of 1 
+
+Process 8119 has completed in 1.300000 seconds.
+The time 1.300000 seconds was added to the list at position 17
+The System time is 363 Hundreds of Milliseconds.
+
+The processor is currently working on:
+This node has processID 8129 with an arrivalTime 351 and a CPU Time of 2 
+
+Process 8129 has completed in 1.400000 seconds.
+The time 1.400000 seconds was added to the list at position 18
+The System time is 365 Hundreds of Milliseconds.
+
+WHERE'S THE NACHOS???
+WHERE'S THE NACHOS???
+WHERE'S THE NACHOS???
+WHERE'S THE NACHOS???
+WHERE'S THE NACHOS???
+WHERE'S THE NACHOS???
+WHERE'S THE NACHOS???
+WHERE'S THE NACHOS???
+WHERE'S THE NACHOS???
+WHERE'S THE NACHOS???
+WHERE'S THE NACHOS???
+WHERE'S THE NACHOS???
+WHERE'S THE NACHOS???
+WHERE'S THE NACHOS???
+WHERE'S THE NACHOS???
+WHERE'S THE NACHOS???
+WHERE'S THE NACHOS???
+WHERE'S THE NACHOS???
+WHERE'S THE NACHOS???
+WHERE'S THE NACHOS???
+WHERE'S THE NACHOS???
+WHERE'S THE NACHOS???
+WHERE'S THE NACHOS???
+WHERE'S THE NACHOS???
+WHERE'S THE NACHOS???
+WHERE'S THE NACHOS???
+WHERE'S THE NACHOS???
+WHERE'S THE NACHOS???
+WHERE'S THE NACHOS???
+WHERE'S THE NACHOS???
+WHERE'S THE NACHOS???
+WHERE'S THE NACHOS???
+WHERE'S THE NACHOS???
+WHERE'S THE NACHOS???
+WHERE'S THE NACHOS???
+The processor is about to take an input. The System time is 400.
+ 
+The processor is currently working on:
+This node has processID 5000 with an arrivalTime 400 and a CPU Time of 2 
+
+Process 5000 has completed in 0.200000 seconds.
+The time 0.200000 seconds was added to the list at position 19
+The System time is 402 Hundreds of Milliseconds.
+
+The processor is about to take an input. The System time is 402.
+ 
+The processor is currently working on:
+This node has processID 5001 with an arrivalTime 401 and a CPU Time of 1 
+
+Process 5001 has completed in 0.200000 seconds.
+The time 0.200000 seconds was added to the list at position 20
+The System time is 403 Hundreds of Milliseconds.
+
+The processor is about to take an input. The System time is 403.
+ 
+The processor is currently working on:
+This node has processID 5002 with an arrivalTime 402 and a CPU Time of 1 
+
+Process 5002 has completed in 0.200000 seconds.
+The time 0.200000 seconds was added to the list at position 21
+The System time is 404 Hundreds of Milliseconds.
+
+The processor is about to take an input. The System time is 404.
+ 
+The processor is currently working on:
+This node has processID 5007 with an arrivalTime 403 and a CPU Time of 3 
+
+Process 5007 has completed in 0.400000 seconds.
+The time 0.400000 seconds was added to the list at position 22
+The System time is 407 Hundreds of Milliseconds.
+
+WHERE'S THE NACHOS???
+WHERE'S THE NACHOS???
+WHERE'S THE NACHOS???
+WHERE'S THE NACHOS???
+WHERE'S THE NACHOS???
+WHERE'S THE NACHOS???
+WHERE'S THE NACHOS???
+WHERE'S THE NACHOS???
+WHERE'S THE NACHOS???
+WHERE'S THE NACHOS???
+WHERE'S THE NACHOS???
+WHERE'S THE NACHOS???
+WHERE'S THE NACHOS???
+The processor is about to take an input. The System time is 420.
+ 
+The processor is currently working on:
+This node has processID 4411 with an arrivalTime 420 and a CPU Time of 10 
+Process 4411 has been worked at for 0.400000 seconds. The processor is moving it to the back and starting the next.
+The System time is 424 Hundreds of Milliseconds.
+
+The processor is currently working on:
+This node has processID 4411 with an arrivalTime 420 and a CPU Time of 6 
+Process 4411 has been worked at for 0.400000 seconds. The processor is moving it to the back and starting the next.
+The System time is 428 Hundreds of Milliseconds.
+
+The processor is currently working on:
+This node has processID 4411 with an arrivalTime 420 and a CPU Time of 2 
+
+Process 4411 has completed in 1.000000 seconds.
+The time 1.000000 seconds was added to the list at position 23
+The System time is 430 Hundreds of Milliseconds.
+
+The processor is about to take an input. The System time is 430.
+ 
+The processor is currently working on:
+This node has processID 4421 with an arrivalTime 429 and a CPU Time of 10 
+Process 4421 has been worked at for 0.400000 seconds. The processor is moving it to the back and starting the next.
+The System time is 434 Hundreds of Milliseconds.
+
+The processor is currently working on:
+This node has processID 4421 with an arrivalTime 429 and a CPU Time of 6 
+Process 4421 has been worked at for 0.400000 seconds. The processor is moving it to the back and starting the next.
+The System time is 438 Hundreds of Milliseconds.
+
+The processor is about to take an input. The System time is 438.
+ 
+The processor is currently working on:
+This node has processID 4421 with an arrivalTime 429 and a CPU Time of 2 
+
+Process 4421 has completed in 1.100000 seconds.
+The time 1.100000 seconds was added to the list at position 24
+The System time is 440 Hundreds of Milliseconds.
+
+The processor is currently working on:
+This node has processID 4431 with an arrivalTime 438 and a CPU Time of 10 
+Process 4431 has been worked at for 0.400000 seconds. The processor is moving it to the back and starting the next.
+The System time is 444 Hundreds of Milliseconds.
+
+The processor is currently working on:
+This node has processID 4431 with an arrivalTime 438 and a CPU Time of 6 
+Process 4431 has been worked at for 0.400000 seconds. The processor is moving it to the back and starting the next.
+The System time is 448 Hundreds of Milliseconds.
+
+The processor is about to take an input. The System time is 448.
+ 
+The processor is currently working on:
+This node has processID 4431 with an arrivalTime 438 and a CPU Time of 2 
+
+Process 4431 has completed in 1.200000 seconds.
+The time 1.200000 seconds was added to the list at position 25
+The System time is 450 Hundreds of Milliseconds.
+
+The processor is currently working on:
+This node has processID 4441 with an arrivalTime 447 and a CPU Time of 10 
+Process 4441 has been worked at for 0.400000 seconds. The processor is moving it to the back and starting the next.
+The System time is 454 Hundreds of Milliseconds.
+
+The processor is currently working on:
+This node has processID 4441 with an arrivalTime 447 and a CPU Time of 6 
+Process 4441 has been worked at for 0.400000 seconds. The processor is moving it to the back and starting the next.
+The System time is 458 Hundreds of Milliseconds.
+
+The processor is about to take an input. The System time is 458.
+ 
+The processor is currently working on:
+This node has processID 4441 with an arrivalTime 447 and a CPU Time of 2 
+
+Process 4441 has completed in 1.300000 seconds.
+The time 1.300000 seconds was added to the list at position 26
+The System time is 460 Hundreds of Milliseconds.
+
+The processor is about to take an input. The System time is 460.
+ 
+The processor is currently working on:
+This node has processID 9999 with an arrivalTime 456 and a CPU Time of 300 
+Process 9999 has been worked at for 0.400000 seconds. The processor is moving it to the back and starting the next.
+The System time is 464 Hundreds of Milliseconds.
+
+The processor is about to take an input. The System time is 464.
+ 
+The processor is currently working on:
+This node has processID 7999 with an arrivalTime 456 and a CPU Time of 2 
+
+Process 7999 has completed in 1.000000 seconds.
+The time 1.000000 seconds was added to the list at position 27
+The System time is 466 Hundreds of Milliseconds.
+
+The processor is about to take an input. The System time is 466.
+ 
+The processor is currently working on:
+This node has processID 9999 with an arrivalTime 456 and a CPU Time of 296 
+Process 9999 has been worked at for 0.400000 seconds. The processor is moving it to the back and starting the next.
+The System time is 470 Hundreds of Milliseconds.
+
+The processor is about to take an input. The System time is 470.
+ 
+The processor is currently working on:
+This node has processID 4451 with an arrivalTime 456 and a CPU Time of 40 
+Process 4451 has been worked at for 0.400000 seconds. The processor is moving it to the back and starting the next.
+The System time is 474 Hundreds of Milliseconds.
+
+The processor is about to take an input. The System time is 474.
+ 
+The processor is currently working on:
+This node has processID 7909 with an arrivalTime 458 and a CPU Time of 2 
+
+Process 7909 has completed in 1.800000 seconds.
+The time 1.800000 seconds was added to the list at position 28
+The System time is 476 Hundreds of Milliseconds.
+
+The processor is about to take an input. The System time is 476.
+ 
+The processor is currently working on:
+This node has processID 9999 with an arrivalTime 456 and a CPU Time of 292 
+Process 9999 has been worked at for 0.400000 seconds. The processor is moving it to the back and starting the next.
+The System time is 480 Hundreds of Milliseconds.
+
+The processor is about to take an input. The System time is 480.
+ 
+The processor is currently working on:
+This node has processID 7989 with an arrivalTime 460 and a CPU Time of 2 
+
+Process 7989 has completed in 2.200000 seconds.
+The time 2.200000 seconds was added to the list at position 29
+The System time is 482 Hundreds of Milliseconds.
+
+The processor is currently working on:
+This node has processID 4451 with an arrivalTime 456 and a CPU Time of 36 
+Process 4451 has been worked at for 0.400000 seconds. The processor is moving it to the back and starting the next.
+The System time is 486 Hundreds of Milliseconds.
+
+The processor is currently working on:
+This node has processID 7979 with an arrivalTime 461 and a CPU Time of 1 
+
+Process 7979 has completed in 2.600000 seconds.
+The time 2.600000 seconds was added to the list at position 30
+The System time is 487 Hundreds of Milliseconds.
+
+The processor is currently working on:
+This node has processID 7919 with an arrivalTime 461 and a CPU Time of 1 
+
+Process 7919 has completed in 2.700000 seconds.
+The time 2.700000 seconds was added to the list at position 31
+The System time is 488 Hundreds of Milliseconds.
+
+The processor is currently working on:
+This node has processID 9999 with an arrivalTime 456 and a CPU Time of 288 
+Process 9999 has been worked at for 0.400000 seconds. The processor is moving it to the back and starting the next.
+The System time is 492 Hundreds of Milliseconds.
+
+The processor is currently working on:
+This node has processID 7929 with an arrivalTime 462 and a CPU Time of 2 
+
+Process 7929 has completed in 3.200000 seconds.
+The time 3.200000 seconds was added to the list at position 32
+The System time is 494 Hundreds of Milliseconds.
+
+The processor is currently working on:
+This node has processID 4451 with an arrivalTime 456 and a CPU Time of 32 
+Process 4451 has been worked at for 0.400000 seconds. The processor is moving it to the back and starting the next.
+The System time is 498 Hundreds of Milliseconds.
+
+The processor is currently working on:
+This node has processID 9999 with an arrivalTime 456 and a CPU Time of 284 
+Process 9999 has been worked at for 0.400000 seconds. The processor is moving it to the back and starting the next.
+The System time is 502 Hundreds of Milliseconds.
+
+The processor is about to take an input. The System time is 502.
+ 
+The processor is currently working on:
+This node has processID 4451 with an arrivalTime 456 and a CPU Time of 28 
+Process 4451 has been worked at for 0.400000 seconds. The processor is moving it to the back and starting the next.
+The System time is 506 Hundreds of Milliseconds.
+
+The processor is about to take an input. The System time is 506.
+ 
+The processor is currently working on:
+This node has processID 9999 with an arrivalTime 456 and a CPU Time of 280 
+Process 9999 has been worked at for 0.400000 seconds. The processor is moving it to the back and starting the next.
+The System time is 510 Hundreds of Milliseconds.
+
+
+
+
+WE HAVE MADE IT TO THE SECOND WHILE
+
+
+The processor is currently working on:
+This node has processID 1 with an arrivalTime 500 and a CPU Time of 190 
+Process 1 has been worked at for 0.400000 seconds. The processor is moving it to the back and starting the next.
+The System time is 514 Hundreds of Milliseconds.
+
+The processor is currently working on:
+This node has processID 4451 with an arrivalTime 456 and a CPU Time of 24 
+Process 4451 has been worked at for 0.400000 seconds. The processor is moving it to the back and starting the next.
+The System time is 518 Hundreds of Milliseconds.
+
+The processor is currently working on:
+This node has processID 77 with an arrivalTime 501 and a CPU Time of 10 
+Process 77 has been worked at for 0.400000 seconds. The processor is moving it to the back and starting the next.
+The System time is 522 Hundreds of Milliseconds.
+
+The sentinel has been moved to the back.The processor is currently working on:
+This node has processID 9999 with an arrivalTime 456 and a CPU Time of 276 
+Process 9999 has been worked at for 0.400000 seconds. The processor is moving it to the back and starting the next.
+The System time is 526 Hundreds of Milliseconds.
+
+The processor is currently working on:
+This node has processID 1 with an arrivalTime 500 and a CPU Time of 186 
+Process 1 has been worked at for 0.400000 seconds. The processor is moving it to the back and starting the next.
+The System time is 530 Hundreds of Milliseconds.
+
+The processor is currently working on:
+This node has processID 4451 with an arrivalTime 456 and a CPU Time of 20 
+Process 4451 has been worked at for 0.400000 seconds. The processor is moving it to the back and starting the next.
+The System time is 534 Hundreds of Milliseconds.
+
+The processor is currently working on:
+This node has processID 77 with an arrivalTime 501 and a CPU Time of 6 
+Process 77 has been worked at for 0.400000 seconds. The processor is moving it to the back and starting the next.
+The System time is 538 Hundreds of Milliseconds.
+
+The sentinel has been moved to the back.The processor is currently working on:
+This node has processID 9999 with an arrivalTime 456 and a CPU Time of 272 
+Process 9999 has been worked at for 0.400000 seconds. The processor is moving it to the back and starting the next.
+The System time is 542 Hundreds of Milliseconds.
+
+The processor is currently working on:
+This node has processID 1 with an arrivalTime 500 and a CPU Time of 182 
+Process 1 has been worked at for 0.400000 seconds. The processor is moving it to the back and starting the next.
+The System time is 546 Hundreds of Milliseconds.
+
+The processor is currently working on:
+This node has processID 4451 with an arrivalTime 456 and a CPU Time of 16 
+Process 4451 has been worked at for 0.400000 seconds. The processor is moving it to the back and starting the next.
+The System time is 550 Hundreds of Milliseconds.
+
+The processor is currently working on:
+This node has processID 77 with an arrivalTime 501 and a CPU Time of 2 
+
+Process 77 has completed in 5.100000 seconds.
+The time 5.100000 seconds was added to the list at position 33
+The System time is 552 Hundreds of Milliseconds.
+
+The sentinel has been moved to the back.The processor is currently working on:
+This node has processID 9999 with an arrivalTime 456 and a CPU Time of 268 
+Process 9999 has been worked at for 0.400000 seconds. The processor is moving it to the back and starting the next.
+The System time is 556 Hundreds of Milliseconds.
+
+The processor is currently working on:
+This node has processID 1 with an arrivalTime 500 and a CPU Time of 178 
+Process 1 has been worked at for 0.400000 seconds. The processor is moving it to the back and starting the next.
+The System time is 560 Hundreds of Milliseconds.
+
+The processor is currently working on:
+This node has processID 4451 with an arrivalTime 456 and a CPU Time of 12 
+Process 4451 has been worked at for 0.400000 seconds. The processor is moving it to the back and starting the next.
+The System time is 564 Hundreds of Milliseconds.
+
+The sentinel has been moved to the back.The processor is currently working on:
+This node has processID 9999 with an arrivalTime 456 and a CPU Time of 264 
+Process 9999 has been worked at for 0.400000 seconds. The processor is moving it to the back and starting the next.
+The System time is 568 Hundreds of Milliseconds.
+
+The processor is currently working on:
+This node has processID 1 with an arrivalTime 500 and a CPU Time of 174 
+Process 1 has been worked at for 0.400000 seconds. The processor is moving it to the back and starting the next.
+The System time is 572 Hundreds of Milliseconds.
+
+The processor is currently working on:
+This node has processID 4451 with an arrivalTime 456 and a CPU Time of 8 
+Process 4451 has been worked at for 0.400000 seconds. The processor is moving it to the back and starting the next.
+The System time is 576 Hundreds of Milliseconds.
+
+The sentinel has been moved to the back.The processor is currently working on:
+This node has processID 9999 with an arrivalTime 456 and a CPU Time of 260 
+Process 9999 has been worked at for 0.400000 seconds. The processor is moving it to the back and starting the next.
+The System time is 580 Hundreds of Milliseconds.
+
+The processor is currently working on:
+This node has processID 1 with an arrivalTime 500 and a CPU Time of 170 
+Process 1 has been worked at for 0.400000 seconds. The processor is moving it to the back and starting the next.
+The System time is 584 Hundreds of Milliseconds.
+
+The processor is currently working on:
+This node has processID 4451 with an arrivalTime 456 and a CPU Time of 4 
+
+Process 4451 has completed in 13.200000 seconds.
+The time 13.200000 seconds was added to the list at position 34
+The System time is 588 Hundreds of Milliseconds.
+
+The sentinel has been moved to the back.The processor is currently working on:
+This node has processID 9999 with an arrivalTime 456 and a CPU Time of 256 
+Process 9999 has been worked at for 0.400000 seconds. The processor is moving it to the back and starting the next.
+The System time is 592 Hundreds of Milliseconds.
+
+The processor is currently working on:
+This node has processID 1 with an arrivalTime 500 and a CPU Time of 166 
+Process 1 has been worked at for 0.400000 seconds. The processor is moving it to the back and starting the next.
+The System time is 596 Hundreds of Milliseconds.
+
+The sentinel has been moved to the back.The processor is currently working on:
+This node has processID 9999 with an arrivalTime 456 and a CPU Time of 252 
+Process 9999 has been worked at for 0.400000 seconds. The processor is moving it to the back and starting the next.
+The System time is 600 Hundreds of Milliseconds.
+
+The processor is currently working on:
+This node has processID 1 with an arrivalTime 500 and a CPU Time of 162 
+Process 1 has been worked at for 0.400000 seconds. The processor is moving it to the back and starting the next.
+The System time is 604 Hundreds of Milliseconds.
+
+The sentinel has been moved to the back.The processor is currently working on:
+This node has processID 9999 with an arrivalTime 456 and a CPU Time of 248 
+Process 9999 has been worked at for 0.400000 seconds. The processor is moving it to the back and starting the next.
+The System time is 608 Hundreds of Milliseconds.
+
+The processor is currently working on:
+This node has processID 1 with an arrivalTime 500 and a CPU Time of 158 
+Process 1 has been worked at for 0.400000 seconds. The processor is moving it to the back and starting the next.
+The System time is 612 Hundreds of Milliseconds.
+
+The sentinel has been moved to the back.The processor is currently working on:
+This node has processID 9999 with an arrivalTime 456 and a CPU Time of 244 
+Process 9999 has been worked at for 0.400000 seconds. The processor is moving it to the back and starting the next.
+The System time is 616 Hundreds of Milliseconds.
+
+The processor is currently working on:
+This node has processID 1 with an arrivalTime 500 and a CPU Time of 154 
+Process 1 has been worked at for 0.400000 seconds. The processor is moving it to the back and starting the next.
+The System time is 620 Hundreds of Milliseconds.
+
+The sentinel has been moved to the back.The processor is currently working on:
+This node has processID 9999 with an arrivalTime 456 and a CPU Time of 240 
+Process 9999 has been worked at for 0.400000 seconds. The processor is moving it to the back and starting the next.
+The System time is 624 Hundreds of Milliseconds.
+
+The processor is currently working on:
+This node has processID 1 with an arrivalTime 500 and a CPU Time of 150 
+Process 1 has been worked at for 0.400000 seconds. The processor is moving it to the back and starting the next.
+The System time is 628 Hundreds of Milliseconds.
+
+The sentinel has been moved to the back.The processor is currently working on:
+This node has processID 9999 with an arrivalTime 456 and a CPU Time of 236 
+Process 9999 has been worked at for 0.400000 seconds. The processor is moving it to the back and starting the next.
+The System time is 632 Hundreds of Milliseconds.
+
+The processor is currently working on:
+This node has processID 1 with an arrivalTime 500 and a CPU Time of 146 
+Process 1 has been worked at for 0.400000 seconds. The processor is moving it to the back and starting the next.
+The System time is 636 Hundreds of Milliseconds.
+
+The sentinel has been moved to the back.The processor is currently working on:
+This node has processID 9999 with an arrivalTime 456 and a CPU Time of 232 
+Process 9999 has been worked at for 0.400000 seconds. The processor is moving it to the back and starting the next.
+The System time is 640 Hundreds of Milliseconds.
+
+The processor is currently working on:
+This node has processID 1 with an arrivalTime 500 and a CPU Time of 142 
+Process 1 has been worked at for 0.400000 seconds. The processor is moving it to the back and starting the next.
+The System time is 644 Hundreds of Milliseconds.
+
+The sentinel has been moved to the back.The processor is currently working on:
+This node has processID 9999 with an arrivalTime 456 and a CPU Time of 228 
+Process 9999 has been worked at for 0.400000 seconds. The processor is moving it to the back and starting the next.
+The System time is 648 Hundreds of Milliseconds.
+
+The processor is currently working on:
+This node has processID 1 with an arrivalTime 500 and a CPU Time of 138 
+Process 1 has been worked at for 0.400000 seconds. The processor is moving it to the back and starting the next.
+The System time is 652 Hundreds of Milliseconds.
+
+The sentinel has been moved to the back.The processor is currently working on:
+This node has processID 9999 with an arrivalTime 456 and a CPU Time of 224 
+Process 9999 has been worked at for 0.400000 seconds. The processor is moving it to the back and starting the next.
+The System time is 656 Hundreds of Milliseconds.
+
+The processor is currently working on:
+This node has processID 1 with an arrivalTime 500 and a CPU Time of 134 
+Process 1 has been worked at for 0.400000 seconds. The processor is moving it to the back and starting the next.
+The System time is 660 Hundreds of Milliseconds.
+
+The sentinel has been moved to the back.The processor is currently working on:
+This node has processID 9999 with an arrivalTime 456 and a CPU Time of 220 
+Process 9999 has been worked at for 0.400000 seconds. The processor is moving it to the back and starting the next.
+The System time is 664 Hundreds of Milliseconds.
+
+The processor is currently working on:
+This node has processID 1 with an arrivalTime 500 and a CPU Time of 130 
+Process 1 has been worked at for 0.400000 seconds. The processor is moving it to the back and starting the next.
+The System time is 668 Hundreds of Milliseconds.
+
+The sentinel has been moved to the back.The processor is currently working on:
+This node has processID 9999 with an arrivalTime 456 and a CPU Time of 216 
+Process 9999 has been worked at for 0.400000 seconds. The processor is moving it to the back and starting the next.
+The System time is 672 Hundreds of Milliseconds.
+
+The processor is currently working on:
+This node has processID 1 with an arrivalTime 500 and a CPU Time of 126 
+Process 1 has been worked at for 0.400000 seconds. The processor is moving it to the back and starting the next.
+The System time is 676 Hundreds of Milliseconds.
+
+The sentinel has been moved to the back.The processor is currently working on:
+This node has processID 9999 with an arrivalTime 456 and a CPU Time of 212 
+Process 9999 has been worked at for 0.400000 seconds. The processor is moving it to the back and starting the next.
+The System time is 680 Hundreds of Milliseconds.
+
+The processor is currently working on:
+This node has processID 1 with an arrivalTime 500 and a CPU Time of 122 
+Process 1 has been worked at for 0.400000 seconds. The processor is moving it to the back and starting the next.
+The System time is 684 Hundreds of Milliseconds.
+
+The sentinel has been moved to the back.The processor is currently working on:
+This node has processID 9999 with an arrivalTime 456 and a CPU Time of 208 
+Process 9999 has been worked at for 0.400000 seconds. The processor is moving it to the back and starting the next.
+The System time is 688 Hundreds of Milliseconds.
+
+The processor is currently working on:
+This node has processID 1 with an arrivalTime 500 and a CPU Time of 118 
+Process 1 has been worked at for 0.400000 seconds. The processor is moving it to the back and starting the next.
+The System time is 692 Hundreds of Milliseconds.
+
+The sentinel has been moved to the back.The processor is currently working on:
+This node has processID 9999 with an arrivalTime 456 and a CPU Time of 204 
+Process 9999 has been worked at for 0.400000 seconds. The processor is moving it to the back and starting the next.
+The System time is 696 Hundreds of Milliseconds.
+
+The processor is currently working on:
+This node has processID 1 with an arrivalTime 500 and a CPU Time of 114 
+Process 1 has been worked at for 0.400000 seconds. The processor is moving it to the back and starting the next.
+The System time is 700 Hundreds of Milliseconds.
+
+The sentinel has been moved to the back.The processor is currently working on:
+This node has processID 9999 with an arrivalTime 456 and a CPU Time of 200 
+Process 9999 has been worked at for 0.400000 seconds. The processor is moving it to the back and starting the next.
+The System time is 704 Hundreds of Milliseconds.
+
+The processor is currently working on:
+This node has processID 1 with an arrivalTime 500 and a CPU Time of 110 
+Process 1 has been worked at for 0.400000 seconds. The processor is moving it to the back and starting the next.
+The System time is 708 Hundreds of Milliseconds.
+
+The sentinel has been moved to the back.The processor is currently working on:
+This node has processID 9999 with an arrivalTime 456 and a CPU Time of 196 
+Process 9999 has been worked at for 0.400000 seconds. The processor is moving it to the back and starting the next.
+The System time is 712 Hundreds of Milliseconds.
+
+The processor is currently working on:
+This node has processID 1 with an arrivalTime 500 and a CPU Time of 106 
+Process 1 has been worked at for 0.400000 seconds. The processor is moving it to the back and starting the next.
+The System time is 716 Hundreds of Milliseconds.
+
+The sentinel has been moved to the back.The processor is currently working on:
+This node has processID 9999 with an arrivalTime 456 and a CPU Time of 192 
+Process 9999 has been worked at for 0.400000 seconds. The processor is moving it to the back and starting the next.
+The System time is 720 Hundreds of Milliseconds.
+
+The processor is currently working on:
+This node has processID 1 with an arrivalTime 500 and a CPU Time of 102 
+Process 1 has been worked at for 0.400000 seconds. The processor is moving it to the back and starting the next.
+The System time is 724 Hundreds of Milliseconds.
+
+The sentinel has been moved to the back.The processor is currently working on:
+This node has processID 9999 with an arrivalTime 456 and a CPU Time of 188 
+Process 9999 has been worked at for 0.400000 seconds. The processor is moving it to the back and starting the next.
+The System time is 728 Hundreds of Milliseconds.
+
+The processor is currently working on:
+This node has processID 1 with an arrivalTime 500 and a CPU Time of 98 
+Process 1 has been worked at for 0.400000 seconds. The processor is moving it to the back and starting the next.
+The System time is 732 Hundreds of Milliseconds.
+
+The sentinel has been moved to the back.The processor is currently working on:
+This node has processID 9999 with an arrivalTime 456 and a CPU Time of 184 
+Process 9999 has been worked at for 0.400000 seconds. The processor is moving it to the back and starting the next.
+The System time is 736 Hundreds of Milliseconds.
+
+The processor is currently working on:
+This node has processID 1 with an arrivalTime 500 and a CPU Time of 94 
+Process 1 has been worked at for 0.400000 seconds. The processor is moving it to the back and starting the next.
+The System time is 740 Hundreds of Milliseconds.
+
+The sentinel has been moved to the back.The processor is currently working on:
+This node has processID 9999 with an arrivalTime 456 and a CPU Time of 180 
+Process 9999 has been worked at for 0.400000 seconds. The processor is moving it to the back and starting the next.
+The System time is 744 Hundreds of Milliseconds.
+
+The processor is currently working on:
+This node has processID 1 with an arrivalTime 500 and a CPU Time of 90 
+Process 1 has been worked at for 0.400000 seconds. The processor is moving it to the back and starting the next.
+The System time is 748 Hundreds of Milliseconds.
+
+The sentinel has been moved to the back.The processor is currently working on:
+This node has processID 9999 with an arrivalTime 456 and a CPU Time of 176 
+Process 9999 has been worked at for 0.400000 seconds. The processor is moving it to the back and starting the next.
+The System time is 752 Hundreds of Milliseconds.
+
+The processor is currently working on:
+This node has processID 1 with an arrivalTime 500 and a CPU Time of 86 
+Process 1 has been worked at for 0.400000 seconds. The processor is moving it to the back and starting the next.
+The System time is 756 Hundreds of Milliseconds.
+
+The sentinel has been moved to the back.The processor is currently working on:
+This node has processID 9999 with an arrivalTime 456 and a CPU Time of 172 
+Process 9999 has been worked at for 0.400000 seconds. The processor is moving it to the back and starting the next.
+The System time is 760 Hundreds of Milliseconds.
+
+The processor is currently working on:
+This node has processID 1 with an arrivalTime 500 and a CPU Time of 82 
+Process 1 has been worked at for 0.400000 seconds. The processor is moving it to the back and starting the next.
+The System time is 764 Hundreds of Milliseconds.
+
+The sentinel has been moved to the back.The processor is currently working on:
+This node has processID 9999 with an arrivalTime 456 and a CPU Time of 168 
+Process 9999 has been worked at for 0.400000 seconds. The processor is moving it to the back and starting the next.
+The System time is 768 Hundreds of Milliseconds.
+
+The processor is currently working on:
+This node has processID 1 with an arrivalTime 500 and a CPU Time of 78 
+Process 1 has been worked at for 0.400000 seconds. The processor is moving it to the back and starting the next.
+The System time is 772 Hundreds of Milliseconds.
+
+The sentinel has been moved to the back.The processor is currently working on:
+This node has processID 9999 with an arrivalTime 456 and a CPU Time of 164 
+Process 9999 has been worked at for 0.400000 seconds. The processor is moving it to the back and starting the next.
+The System time is 776 Hundreds of Milliseconds.
+
+The processor is currently working on:
+This node has processID 1 with an arrivalTime 500 and a CPU Time of 74 
+Process 1 has been worked at for 0.400000 seconds. The processor is moving it to the back and starting the next.
+The System time is 780 Hundreds of Milliseconds.
+
+The sentinel has been moved to the back.The processor is currently working on:
+This node has processID 9999 with an arrivalTime 456 and a CPU Time of 160 
+Process 9999 has been worked at for 0.400000 seconds. The processor is moving it to the back and starting the next.
+The System time is 784 Hundreds of Milliseconds.
+
+The processor is currently working on:
+This node has processID 1 with an arrivalTime 500 and a CPU Time of 70 
+Process 1 has been worked at for 0.400000 seconds. The processor is moving it to the back and starting the next.
+The System time is 788 Hundreds of Milliseconds.
+
+The sentinel has been moved to the back.The processor is currently working on:
+This node has processID 9999 with an arrivalTime 456 and a CPU Time of 156 
+Process 9999 has been worked at for 0.400000 seconds. The processor is moving it to the back and starting the next.
+The System time is 792 Hundreds of Milliseconds.
+
+The processor is currently working on:
+This node has processID 1 with an arrivalTime 500 and a CPU Time of 66 
+Process 1 has been worked at for 0.400000 seconds. The processor is moving it to the back and starting the next.
+The System time is 796 Hundreds of Milliseconds.
+
+The sentinel has been moved to the back.The processor is currently working on:
+This node has processID 9999 with an arrivalTime 456 and a CPU Time of 152 
+Process 9999 has been worked at for 0.400000 seconds. The processor is moving it to the back and starting the next.
+The System time is 800 Hundreds of Milliseconds.
+
+The processor is currently working on:
+This node has processID 1 with an arrivalTime 500 and a CPU Time of 62 
+Process 1 has been worked at for 0.400000 seconds. The processor is moving it to the back and starting the next.
+The System time is 804 Hundreds of Milliseconds.
+
+The sentinel has been moved to the back.The processor is currently working on:
+This node has processID 9999 with an arrivalTime 456 and a CPU Time of 148 
+Process 9999 has been worked at for 0.400000 seconds. The processor is moving it to the back and starting the next.
+The System time is 808 Hundreds of Milliseconds.
+
+The processor is currently working on:
+This node has processID 1 with an arrivalTime 500 and a CPU Time of 58 
+Process 1 has been worked at for 0.400000 seconds. The processor is moving it to the back and starting the next.
+The System time is 812 Hundreds of Milliseconds.
+
+The sentinel has been moved to the back.The processor is currently working on:
+This node has processID 9999 with an arrivalTime 456 and a CPU Time of 144 
+Process 9999 has been worked at for 0.400000 seconds. The processor is moving it to the back and starting the next.
+The System time is 816 Hundreds of Milliseconds.
+
+The processor is currently working on:
+This node has processID 1 with an arrivalTime 500 and a CPU Time of 54 
+Process 1 has been worked at for 0.400000 seconds. The processor is moving it to the back and starting the next.
+The System time is 820 Hundreds of Milliseconds.
+
+The sentinel has been moved to the back.The processor is currently working on:
+This node has processID 9999 with an arrivalTime 456 and a CPU Time of 140 
+Process 9999 has been worked at for 0.400000 seconds. The processor is moving it to the back and starting the next.
+The System time is 824 Hundreds of Milliseconds.
+
+The processor is currently working on:
+This node has processID 1 with an arrivalTime 500 and a CPU Time of 50 
+Process 1 has been worked at for 0.400000 seconds. The processor is moving it to the back and starting the next.
+The System time is 828 Hundreds of Milliseconds.
+
+The sentinel has been moved to the back.The processor is currently working on:
+This node has processID 9999 with an arrivalTime 456 and a CPU Time of 136 
+Process 9999 has been worked at for 0.400000 seconds. The processor is moving it to the back and starting the next.
+The System time is 832 Hundreds of Milliseconds.
+
+The processor is currently working on:
+This node has processID 1 with an arrivalTime 500 and a CPU Time of 46 
+Process 1 has been worked at for 0.400000 seconds. The processor is moving it to the back and starting the next.
+The System time is 836 Hundreds of Milliseconds.
+
+The sentinel has been moved to the back.The processor is currently working on:
+This node has processID 9999 with an arrivalTime 456 and a CPU Time of 132 
+Process 9999 has been worked at for 0.400000 seconds. The processor is moving it to the back and starting the next.
+The System time is 840 Hundreds of Milliseconds.
+
+The processor is currently working on:
+This node has processID 1 with an arrivalTime 500 and a CPU Time of 42 
+Process 1 has been worked at for 0.400000 seconds. The processor is moving it to the back and starting the next.
+The System time is 844 Hundreds of Milliseconds.
+
+The sentinel has been moved to the back.The processor is currently working on:
+This node has processID 9999 with an arrivalTime 456 and a CPU Time of 128 
+Process 9999 has been worked at for 0.400000 seconds. The processor is moving it to the back and starting the next.
+The System time is 848 Hundreds of Milliseconds.
+
+The processor is currently working on:
+This node has processID 1 with an arrivalTime 500 and a CPU Time of 38 
+Process 1 has been worked at for 0.400000 seconds. The processor is moving it to the back and starting the next.
+The System time is 852 Hundreds of Milliseconds.
+
+The sentinel has been moved to the back.The processor is currently working on:
+This node has processID 9999 with an arrivalTime 456 and a CPU Time of 124 
+Process 9999 has been worked at for 0.400000 seconds. The processor is moving it to the back and starting the next.
+The System time is 856 Hundreds of Milliseconds.
+
+The processor is currently working on:
+This node has processID 1 with an arrivalTime 500 and a CPU Time of 34 
+Process 1 has been worked at for 0.400000 seconds. The processor is moving it to the back and starting the next.
+The System time is 860 Hundreds of Milliseconds.
+
+The sentinel has been moved to the back.The processor is currently working on:
+This node has processID 9999 with an arrivalTime 456 and a CPU Time of 120 
+Process 9999 has been worked at for 0.400000 seconds. The processor is moving it to the back and starting the next.
+The System time is 864 Hundreds of Milliseconds.
+
+The processor is currently working on:
+This node has processID 1 with an arrivalTime 500 and a CPU Time of 30 
+Process 1 has been worked at for 0.400000 seconds. The processor is moving it to the back and starting the next.
+The System time is 868 Hundreds of Milliseconds.
+
+The sentinel has been moved to the back.The processor is currently working on:
+This node has processID 9999 with an arrivalTime 456 and a CPU Time of 116 
+Process 9999 has been worked at for 0.400000 seconds. The processor is moving it to the back and starting the next.
+The System time is 872 Hundreds of Milliseconds.
+
+The processor is currently working on:
+This node has processID 1 with an arrivalTime 500 and a CPU Time of 26 
+Process 1 has been worked at for 0.400000 seconds. The processor is moving it to the back and starting the next.
+The System time is 876 Hundreds of Milliseconds.
+
+The sentinel has been moved to the back.The processor is currently working on:
+This node has processID 9999 with an arrivalTime 456 and a CPU Time of 112 
+Process 9999 has been worked at for 0.400000 seconds. The processor is moving it to the back and starting the next.
+The System time is 880 Hundreds of Milliseconds.
+
+The processor is currently working on:
+This node has processID 1 with an arrivalTime 500 and a CPU Time of 22 
+Process 1 has been worked at for 0.400000 seconds. The processor is moving it to the back and starting the next.
+The System time is 884 Hundreds of Milliseconds.
+
+The sentinel has been moved to the back.The processor is currently working on:
+This node has processID 9999 with an arrivalTime 456 and a CPU Time of 108 
+Process 9999 has been worked at for 0.400000 seconds. The processor is moving it to the back and starting the next.
+The System time is 888 Hundreds of Milliseconds.
+
+The processor is currently working on:
+This node has processID 1 with an arrivalTime 500 and a CPU Time of 18 
+Process 1 has been worked at for 0.400000 seconds. The processor is moving it to the back and starting the next.
+The System time is 892 Hundreds of Milliseconds.
+
+The sentinel has been moved to the back.The processor is currently working on:
+This node has processID 9999 with an arrivalTime 456 and a CPU Time of 104 
+Process 9999 has been worked at for 0.400000 seconds. The processor is moving it to the back and starting the next.
+The System time is 896 Hundreds of Milliseconds.
+
+The processor is currently working on:
+This node has processID 1 with an arrivalTime 500 and a CPU Time of 14 
+Process 1 has been worked at for 0.400000 seconds. The processor is moving it to the back and starting the next.
+The System time is 900 Hundreds of Milliseconds.
+
+The sentinel has been moved to the back.The processor is currently working on:
+This node has processID 9999 with an arrivalTime 456 and a CPU Time of 100 
+Process 9999 has been worked at for 0.400000 seconds. The processor is moving it to the back and starting the next.
+The System time is 904 Hundreds of Milliseconds.
+
+The processor is currently working on:
+This node has processID 1 with an arrivalTime 500 and a CPU Time of 10 
+Process 1 has been worked at for 0.400000 seconds. The processor is moving it to the back and starting the next.
+The System time is 908 Hundreds of Milliseconds.
+
+The sentinel has been moved to the back.The processor is currently working on:
+This node has processID 9999 with an arrivalTime 456 and a CPU Time of 96 
+Process 9999 has been worked at for 0.400000 seconds. The processor is moving it to the back and starting the next.
+The System time is 912 Hundreds of Milliseconds.
+
+The processor is currently working on:
+This node has processID 1 with an arrivalTime 500 and a CPU Time of 6 
+Process 1 has been worked at for 0.400000 seconds. The processor is moving it to the back and starting the next.
+The System time is 916 Hundreds of Milliseconds.
+
+The sentinel has been moved to the back.The processor is currently working on:
+This node has processID 9999 with an arrivalTime 456 and a CPU Time of 92 
+Process 9999 has been worked at for 0.400000 seconds. The processor is moving it to the back and starting the next.
+The System time is 920 Hundreds of Milliseconds.
+
+The processor is currently working on:
+This node has processID 1 with an arrivalTime 500 and a CPU Time of 2 
+
+Process 1 has completed in 42.200000 seconds.
+The time 42.200000 seconds was added to the list at position 35
+The System time is 922 Hundreds of Milliseconds.
+
+The sentinel has been moved to the back.The processor is currently working on:
+This node has processID 9999 with an arrivalTime 456 and a CPU Time of 88 
+Process 9999 has been worked at for 0.400000 seconds. The processor is moving it to the back and starting the next.
+The System time is 926 Hundreds of Milliseconds.
+
+The sentinel has been moved to the back.The processor is currently working on:
+This node has processID 9999 with an arrivalTime 456 and a CPU Time of 84 
+Process 9999 has been worked at for 0.400000 seconds. The processor is moving it to the back and starting the next.
+The System time is 930 Hundreds of Milliseconds.
+
+The sentinel has been moved to the back.The processor is currently working on:
+This node has processID 9999 with an arrivalTime 456 and a CPU Time of 80 
+Process 9999 has been worked at for 0.400000 seconds. The processor is moving it to the back and starting the next.
+The System time is 934 Hundreds of Milliseconds.
+
+The sentinel has been moved to the back.The processor is currently working on:
+This node has processID 9999 with an arrivalTime 456 and a CPU Time of 76 
+Process 9999 has been worked at for 0.400000 seconds. The processor is moving it to the back and starting the next.
+The System time is 938 Hundreds of Milliseconds.
+
+The sentinel has been moved to the back.The processor is currently working on:
+This node has processID 9999 with an arrivalTime 456 and a CPU Time of 72 
+Process 9999 has been worked at for 0.400000 seconds. The processor is moving it to the back and starting the next.
+The System time is 942 Hundreds of Milliseconds.
+
+The sentinel has been moved to the back.The processor is currently working on:
+This node has processID 9999 with an arrivalTime 456 and a CPU Time of 68 
+Process 9999 has been worked at for 0.400000 seconds. The processor is moving it to the back and starting the next.
+The System time is 946 Hundreds of Milliseconds.
+
+The sentinel has been moved to the back.The processor is currently working on:
+This node has processID 9999 with an arrivalTime 456 and a CPU Time of 64 
+Process 9999 has been worked at for 0.400000 seconds. The processor is moving it to the back and starting the next.
+The System time is 950 Hundreds of Milliseconds.
+
+The sentinel has been moved to the back.The processor is currently working on:
+This node has processID 9999 with an arrivalTime 456 and a CPU Time of 60 
+Process 9999 has been worked at for 0.400000 seconds. The processor is moving it to the back and starting the next.
+The System time is 954 Hundreds of Milliseconds.
+
+The sentinel has been moved to the back.The processor is currently working on:
+This node has processID 9999 with an arrivalTime 456 and a CPU Time of 56 
+Process 9999 has been worked at for 0.400000 seconds. The processor is moving it to the back and starting the next.
+The System time is 958 Hundreds of Milliseconds.
+
+The sentinel has been moved to the back.The processor is currently working on:
+This node has processID 9999 with an arrivalTime 456 and a CPU Time of 52 
+Process 9999 has been worked at for 0.400000 seconds. The processor is moving it to the back and starting the next.
+The System time is 962 Hundreds of Milliseconds.
+
+The sentinel has been moved to the back.The processor is currently working on:
+This node has processID 9999 with an arrivalTime 456 and a CPU Time of 48 
+Process 9999 has been worked at for 0.400000 seconds. The processor is moving it to the back and starting the next.
+The System time is 966 Hundreds of Milliseconds.
+
+The sentinel has been moved to the back.The processor is currently working on:
+This node has processID 9999 with an arrivalTime 456 and a CPU Time of 44 
+Process 9999 has been worked at for 0.400000 seconds. The processor is moving it to the back and starting the next.
+The System time is 970 Hundreds of Milliseconds.
+
+The sentinel has been moved to the back.The processor is currently working on:
+This node has processID 9999 with an arrivalTime 456 and a CPU Time of 40 
+Process 9999 has been worked at for 0.400000 seconds. The processor is moving it to the back and starting the next.
+The System time is 974 Hundreds of Milliseconds.
+
+The sentinel has been moved to the back.The processor is currently working on:
+This node has processID 9999 with an arrivalTime 456 and a CPU Time of 36 
+Process 9999 has been worked at for 0.400000 seconds. The processor is moving it to the back and starting the next.
+The System time is 978 Hundreds of Milliseconds.
+
+The sentinel has been moved to the back.The processor is currently working on:
+This node has processID 9999 with an arrivalTime 456 and a CPU Time of 32 
+Process 9999 has been worked at for 0.400000 seconds. The processor is moving it to the back and starting the next.
+The System time is 982 Hundreds of Milliseconds.
+
+The sentinel has been moved to the back.The processor is currently working on:
+This node has processID 9999 with an arrivalTime 456 and a CPU Time of 28 
+Process 9999 has been worked at for 0.400000 seconds. The processor is moving it to the back and starting the next.
+The System time is 986 Hundreds of Milliseconds.
+
+The sentinel has been moved to the back.The processor is currently working on:
+This node has processID 9999 with an arrivalTime 456 and a CPU Time of 24 
+Process 9999 has been worked at for 0.400000 seconds. The processor is moving it to the back and starting the next.
+The System time is 990 Hundreds of Milliseconds.
+
+The sentinel has been moved to the back.The processor is currently working on:
+This node has processID 9999 with an arrivalTime 456 and a CPU Time of 20 
+Process 9999 has been worked at for 0.400000 seconds. The processor is moving it to the back and starting the next.
+The System time is 994 Hundreds of Milliseconds.
+
+The sentinel has been moved to the back.The processor is currently working on:
+This node has processID 9999 with an arrivalTime 456 and a CPU Time of 16 
+Process 9999 has been worked at for 0.400000 seconds. The processor is moving it to the back and starting the next.
+The System time is 998 Hundreds of Milliseconds.
+
+The sentinel has been moved to the back.The processor is currently working on:
+This node has processID 9999 with an arrivalTime 456 and a CPU Time of 12 
+Process 9999 has been worked at for 0.400000 seconds. The processor is moving it to the back and starting the next.
+The System time is 1002 Hundreds of Milliseconds.
+
+The sentinel has been moved to the back.The processor is currently working on:
+This node has processID 9999 with an arrivalTime 456 and a CPU Time of 8 
+Process 9999 has been worked at for 0.400000 seconds. The processor is moving it to the back and starting the next.
+The System time is 1006 Hundreds of Milliseconds.
+
+The sentinel has been moved to the back.The processor is currently working on:
+This node has processID 9999 with an arrivalTime 456 and a CPU Time of 4 
+
+Process 9999 has completed in 55.400000 seconds.
+The time 55.400000 seconds was added to the list at position 36
+The System time is 1010 Hundreds of Milliseconds.
+
+Mean of this data: 6.169444 Variance: 126.454754

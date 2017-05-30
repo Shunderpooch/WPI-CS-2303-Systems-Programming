@@ -1,0 +1,432 @@
+Node has been created.
+Please provide the process 1 in the form: processID, arrivalTime, CPUTime
+Please provide the process 2 in the form: processID, arrivalTime, CPUTime
+Please provide the process 3 in the form: processID, arrivalTime, CPUTime
+Please provide the process 4 in the form: processID, arrivalTime, CPUTime
+Please provide the process 5 in the form: processID, arrivalTime, CPUTime
+Please provide the process 6 in the form: processID, arrivalTime, CPUTime
+Please provide the process 7 in the form: processID, arrivalTime, CPUTime
+Please provide the process 8 in the form: processID, arrivalTime, CPUTime
+Please provide the process 9 in the form: processID, arrivalTime, CPUTime
+Please provide the process 10 in the form: processID, arrivalTime, CPUTime
+Please provide the process 11 in the form: processID, arrivalTime, CPUTime
+Please provide the process 12 in the form: processID, arrivalTime, CPUTime
+Please provide the process 13 in the form: processID, arrivalTime, CPUTime
+Please provide the process 14 in the form: processID, arrivalTime, CPUTime
+Please provide the process 15 in the form: processID, arrivalTime, CPUTime
+Please provide the process 16 in the form: processID, arrivalTime, CPUTime
+Please provide the process 17 in the form: processID, arrivalTime, CPUTime
+Please provide the process 18 in the form: processID, arrivalTime, CPUTime
+Please provide the process 19 in the form: processID, arrivalTime, CPUTime
+Please provide the process 20 in the form: processID, arrivalTime, CPUTime
+Please provide the process 21 in the form: processID, arrivalTime, CPUTime
+Please provide the process 22 in the form: processID, arrivalTime, CPUTime
+Please provide the process 23 in the form: processID, arrivalTime, CPUTime
+Please provide the process 24 in the form: processID, arrivalTime, CPUTime
+Please provide the process 25 in the form: processID, arrivalTime, CPUTime
+Please provide the process 26 in the form: processID, arrivalTime, CPUTime
+Please provide the process 27 in the form: processID, arrivalTime, CPUTime
+Please provide the process 28 in the form: processID, arrivalTime, CPUTime
+Please provide the process 29 in the form: processID, arrivalTime, CPUTime
+Please provide the process 30 in the form: processID, arrivalTime, CPUTime
+Please provide the process 31 in the form: processID, arrivalTime, CPUTime
+Please provide the process 32 in the form: processID, arrivalTime, CPUTime
+Please provide the process 33 in the form: processID, arrivalTime, CPUTime
+Please provide the process 34 in the form: processID, arrivalTime, CPUTime
+Please provide the process 35 in the form: processID, arrivalTime, CPUTime
+Please provide the process 36 in the form: processID, arrivalTime, CPUTime
+The processor is about to take an input. The System time is 0.
+ 
+The processor is currently working on:
+ProcessID 7 with an arrivalTime 0 and a CPU Time of 6. 
+
+Process    7 has completed in 0.600000 seconds. It started at 0.000000 and ended at 0.600000. 
+The time 0.600000 seconds was added to the list at position 1
+The System time is 6 Hundreds of Milliseconds.
+
+The processor is about to take an input. The System time is 6.
+ 
+The processor is currently working on:
+ProcessID 2001 with an arrivalTime 0 and a CPU Time of 20. 
+
+Process 2001 has completed in 2.600000 seconds. It started at 0.000000 and ended at 2.600000. 
+The time 2.600000 seconds was added to the list at position 2
+The System time is 26 Hundreds of Milliseconds.
+
+The processor is about to take an input. The System time is 26.
+ 
+The processor is currently working on:
+ProcessID 2002 with an arrivalTime 1 and a CPU Time of 10. 
+
+Process 2002 has completed in 3.500000 seconds. It started at 0.100000 and ended at 3.600000. 
+The time 3.500000 seconds was added to the list at position 3
+The System time is 36 Hundreds of Milliseconds.
+
+The processor is about to take an input. The System time is 36.
+ 
+The processor is currently working on:
+ProcessID 2005 with an arrivalTime 2 and a CPU Time of 10. 
+
+Process 2005 has completed in 4.400000 seconds. It started at 0.200000 and ended at 4.600000. 
+The time 4.400000 seconds was added to the list at position 4
+The System time is 46 Hundreds of Milliseconds.
+
+The processor is about to take an input. The System time is 46.
+ 
+The processor is currently working on:
+ProcessID 2007 with an arrivalTime 3 and a CPU Time of 4. 
+
+Process 2007 has completed in 4.700000 seconds. It started at 0.300000 and ended at 5.000000. 
+The time 4.700000 seconds was added to the list at position 5
+The System time is 50 Hundreds of Milliseconds.
+
+WHERE'S THE NACHOS??? (The processor has nothing to work on)
+WHERE'S THE NACHOS??? (The processor has nothing to work on)
+WHERE'S THE NACHOS??? (The processor has nothing to work on)
+WHERE'S THE NACHOS??? (The processor has nothing to work on)
+WHERE'S THE NACHOS??? (The processor has nothing to work on)
+WHERE'S THE NACHOS??? (The processor has nothing to work on)
+WHERE'S THE NACHOS??? (The processor has nothing to work on)
+WHERE'S THE NACHOS??? (The processor has nothing to work on)
+WHERE'S THE NACHOS??? (The processor has nothing to work on)
+WHERE'S THE NACHOS??? (The processor has nothing to work on)
+WHERE'S THE NACHOS??? (The processor has nothing to work on)
+WHERE'S THE NACHOS??? (The processor has nothing to work on)
+WHERE'S THE NACHOS??? (The processor has nothing to work on)
+WHERE'S THE NACHOS??? (The processor has nothing to work on)
+WHERE'S THE NACHOS??? (The processor has nothing to work on)
+WHERE'S THE NACHOS??? (The processor has nothing to work on)
+WHERE'S THE NACHOS??? (The processor has nothing to work on)
+WHERE'S THE NACHOS??? (The processor has nothing to work on)
+WHERE'S THE NACHOS??? (The processor has nothing to work on)
+WHERE'S THE NACHOS??? (The processor has nothing to work on)
+WHERE'S THE NACHOS??? (The processor has nothing to work on)
+The processor is about to take an input. The System time is 71.
+ 
+The processor is currently working on:
+ProcessID 1006 with an arrivalTime 71 and a CPU Time of 20. 
+
+Process 1006 has completed in 2.000000 seconds. It started at 7.100000 and ended at 9.100000. 
+The time 2.000000 seconds was added to the list at position 6
+The System time is 91 Hundreds of Milliseconds.
+
+The processor is about to take an input. The System time is 91.
+ 
+The processor is currently working on:
+ProcessID 1008 with an arrivalTime 72 and a CPU Time of 2. 
+
+Process 1008 has completed in 2.100000 seconds. It started at 7.200000 and ended at 9.300000. 
+The time 2.100000 seconds was added to the list at position 7
+The System time is 93 Hundreds of Milliseconds.
+
+The processor is about to take an input. The System time is 93.
+ 
+The processor is currently working on:
+ProcessID 1011 with an arrivalTime 80 and a CPU Time of 32. 
+
+Process 1011 has completed in 4.500000 seconds. It started at 8.000000 and ended at 12.500000. 
+The time 4.500000 seconds was added to the list at position 8
+The System time is 125 Hundreds of Milliseconds.
+
+The processor is about to take an input. The System time is 125.
+ 
+The processor is currently working on:
+ProcessID 1010 with an arrivalTime 80 and a CPU Time of 21. 
+
+Process 1010 has completed in 6.600000 seconds. It started at 8.000000 and ended at 14.600000. 
+The time 6.600000 seconds was added to the list at position 9
+The System time is 146 Hundreds of Milliseconds.
+
+The processor is about to take an input. The System time is 146.
+ 
+The processor is currently working on:
+ProcessID 1111 with an arrivalTime 80 and a CPU Time of 53. 
+
+Process 1111 has completed in 11.900000 seconds. It started at 8.000000 and ended at 19.900000. 
+The time 11.900000 seconds was added to the list at position 10
+The System time is 199 Hundreds of Milliseconds.
+
+WHERE'S THE NACHOS??? (The processor has nothing to work on)
+The processor is about to take an input. The System time is 200.
+ 
+The processor is currently working on:
+ProcessID 3772 with an arrivalTime 200 and a CPU Time of 100. 
+
+Process 3772 has completed in 10.000000 seconds. It started at 20.000000 and ended at 30.000000. 
+The time 10.000000 seconds was added to the list at position 11
+The System time is 300 Hundreds of Milliseconds.
+
+The processor is about to take an input. The System time is 300.
+ 
+The processor is currently working on:
+ProcessID 3795 with an arrivalTime 230 and a CPU Time of 40. 
+
+Process 3795 has completed in 11.000000 seconds. It started at 23.000000 and ended at 34.000000. 
+The time 11.000000 seconds was added to the list at position 12
+The System time is 340 Hundreds of Milliseconds.
+
+The processor is about to take an input. The System time is 340.
+ 
+The processor is currently working on:
+ProcessID 3784 with an arrivalTime 230 and a CPU Time of 2. 
+
+Process 3784 has completed in 11.200000 seconds. It started at 23.000000 and ended at 34.200000. 
+The time 11.200000 seconds was added to the list at position 13
+The System time is 342 Hundreds of Milliseconds.
+
+The processor is about to take an input. The System time is 342.
+ 
+The processor is currently working on:
+ProcessID 3777 with an arrivalTime 230 and a CPU Time of 3. 
+
+Process 3777 has completed in 11.500000 seconds. It started at 23.000000 and ended at 34.500000. 
+The time 11.500000 seconds was added to the list at position 14
+The System time is 345 Hundreds of Milliseconds.
+
+The processor is about to take an input. The System time is 345.
+ 
+The processor is currently working on:
+ProcessID 3779 with an arrivalTime 230 and a CPU Time of 4. 
+
+Process 3779 has completed in 11.900000 seconds. It started at 23.000000 and ended at 34.900000. 
+The time 11.900000 seconds was added to the list at position 15
+The System time is 349 Hundreds of Milliseconds.
+
+The processor is about to take an input. The System time is 349.
+ 
+The processor is currently working on:
+ProcessID 3788 with an arrivalTime 230 and a CPU Time of 1. 
+
+Process 3788 has completed in 12.000000 seconds. It started at 23.000000 and ended at 35.000000. 
+The time 12.000000 seconds was added to the list at position 16
+The System time is 350 Hundreds of Milliseconds.
+
+The processor is about to take an input. The System time is 350.
+ 
+The processor is currently working on:
+ProcessID 8119 with an arrivalTime 350 and a CPU Time of 9. 
+
+Process 8119 has completed in 0.900000 seconds. It started at 35.000000 and ended at 35.900000. 
+The time 0.900000 seconds was added to the list at position 17
+The System time is 359 Hundreds of Milliseconds.
+
+The processor is about to take an input. The System time is 359.
+ 
+The processor is currently working on:
+ProcessID 8129 with an arrivalTime 351 and a CPU Time of 6. 
+
+Process 8129 has completed in 1.400000 seconds. It started at 35.100000 and ended at 36.500000. 
+The time 1.400000 seconds was added to the list at position 18
+The System time is 365 Hundreds of Milliseconds.
+
+WHERE'S THE NACHOS??? (The processor has nothing to work on)
+WHERE'S THE NACHOS??? (The processor has nothing to work on)
+WHERE'S THE NACHOS??? (The processor has nothing to work on)
+WHERE'S THE NACHOS??? (The processor has nothing to work on)
+WHERE'S THE NACHOS??? (The processor has nothing to work on)
+WHERE'S THE NACHOS??? (The processor has nothing to work on)
+WHERE'S THE NACHOS??? (The processor has nothing to work on)
+WHERE'S THE NACHOS??? (The processor has nothing to work on)
+WHERE'S THE NACHOS??? (The processor has nothing to work on)
+WHERE'S THE NACHOS??? (The processor has nothing to work on)
+WHERE'S THE NACHOS??? (The processor has nothing to work on)
+WHERE'S THE NACHOS??? (The processor has nothing to work on)
+WHERE'S THE NACHOS??? (The processor has nothing to work on)
+WHERE'S THE NACHOS??? (The processor has nothing to work on)
+WHERE'S THE NACHOS??? (The processor has nothing to work on)
+WHERE'S THE NACHOS??? (The processor has nothing to work on)
+WHERE'S THE NACHOS??? (The processor has nothing to work on)
+WHERE'S THE NACHOS??? (The processor has nothing to work on)
+WHERE'S THE NACHOS??? (The processor has nothing to work on)
+WHERE'S THE NACHOS??? (The processor has nothing to work on)
+WHERE'S THE NACHOS??? (The processor has nothing to work on)
+WHERE'S THE NACHOS??? (The processor has nothing to work on)
+WHERE'S THE NACHOS??? (The processor has nothing to work on)
+WHERE'S THE NACHOS??? (The processor has nothing to work on)
+WHERE'S THE NACHOS??? (The processor has nothing to work on)
+WHERE'S THE NACHOS??? (The processor has nothing to work on)
+WHERE'S THE NACHOS??? (The processor has nothing to work on)
+WHERE'S THE NACHOS??? (The processor has nothing to work on)
+WHERE'S THE NACHOS??? (The processor has nothing to work on)
+WHERE'S THE NACHOS??? (The processor has nothing to work on)
+WHERE'S THE NACHOS??? (The processor has nothing to work on)
+WHERE'S THE NACHOS??? (The processor has nothing to work on)
+WHERE'S THE NACHOS??? (The processor has nothing to work on)
+WHERE'S THE NACHOS??? (The processor has nothing to work on)
+WHERE'S THE NACHOS??? (The processor has nothing to work on)
+The processor is about to take an input. The System time is 400.
+ 
+The processor is currently working on:
+ProcessID 5000 with an arrivalTime 400 and a CPU Time of 2. 
+
+Process 5000 has completed in 0.200000 seconds. It started at 40.000000 and ended at 40.200000. 
+The time 0.200000 seconds was added to the list at position 19
+The System time is 402 Hundreds of Milliseconds.
+
+The processor is about to take an input. The System time is 402.
+ 
+The processor is currently working on:
+ProcessID 5001 with an arrivalTime 401 and a CPU Time of 1. 
+
+Process 5001 has completed in 0.200000 seconds. It started at 40.100000 and ended at 40.300000. 
+The time 0.200000 seconds was added to the list at position 20
+The System time is 403 Hundreds of Milliseconds.
+
+The processor is about to take an input. The System time is 403.
+ 
+The processor is currently working on:
+ProcessID 5002 with an arrivalTime 402 and a CPU Time of 1. 
+
+Process 5002 has completed in 0.200000 seconds. It started at 40.200000 and ended at 40.400000. 
+The time 0.200000 seconds was added to the list at position 21
+The System time is 404 Hundreds of Milliseconds.
+
+The processor is about to take an input. The System time is 404.
+ 
+The processor is currently working on:
+ProcessID 5007 with an arrivalTime 403 and a CPU Time of 3. 
+
+Process 5007 has completed in 0.400000 seconds. It started at 40.300000 and ended at 40.700000. 
+The time 0.400000 seconds was added to the list at position 22
+The System time is 407 Hundreds of Milliseconds.
+
+WHERE'S THE NACHOS??? (The processor has nothing to work on)
+WHERE'S THE NACHOS??? (The processor has nothing to work on)
+WHERE'S THE NACHOS??? (The processor has nothing to work on)
+WHERE'S THE NACHOS??? (The processor has nothing to work on)
+WHERE'S THE NACHOS??? (The processor has nothing to work on)
+WHERE'S THE NACHOS??? (The processor has nothing to work on)
+WHERE'S THE NACHOS??? (The processor has nothing to work on)
+WHERE'S THE NACHOS??? (The processor has nothing to work on)
+WHERE'S THE NACHOS??? (The processor has nothing to work on)
+WHERE'S THE NACHOS??? (The processor has nothing to work on)
+WHERE'S THE NACHOS??? (The processor has nothing to work on)
+WHERE'S THE NACHOS??? (The processor has nothing to work on)
+WHERE'S THE NACHOS??? (The processor has nothing to work on)
+The processor is about to take an input. The System time is 420.
+ 
+The processor is currently working on:
+ProcessID 4411 with an arrivalTime 420 and a CPU Time of 10. 
+
+Process 4411 has completed in 1.000000 seconds. It started at 42.000000 and ended at 43.000000. 
+The time 1.000000 seconds was added to the list at position 23
+The System time is 430 Hundreds of Milliseconds.
+
+The processor is about to take an input. The System time is 430.
+ 
+The processor is currently working on:
+ProcessID 4421 with an arrivalTime 429 and a CPU Time of 10. 
+
+Process 4421 has completed in 1.100000 seconds. It started at 42.900000 and ended at 44.000000. 
+The time 1.100000 seconds was added to the list at position 24
+The System time is 440 Hundreds of Milliseconds.
+
+The processor is about to take an input. The System time is 440.
+ 
+The processor is currently working on:
+ProcessID 4431 with an arrivalTime 438 and a CPU Time of 10. 
+
+Process 4431 has completed in 1.200000 seconds. It started at 43.800000 and ended at 45.000000. 
+The time 1.200000 seconds was added to the list at position 25
+The System time is 450 Hundreds of Milliseconds.
+
+The processor is about to take an input. The System time is 450.
+ 
+The processor is currently working on:
+ProcessID 4441 with an arrivalTime 447 and a CPU Time of 10. 
+
+Process 4441 has completed in 1.300000 seconds. It started at 44.700000 and ended at 46.000000. 
+The time 1.300000 seconds was added to the list at position 26
+The System time is 460 Hundreds of Milliseconds.
+
+The processor is about to take an input. The System time is 460.
+ 
+The processor is currently working on:
+ProcessID 9999 with an arrivalTime 456 and a CPU Time of 300. 
+
+Process 9999 has completed in 30.400000 seconds. It started at 45.600000 and ended at 76.000000. 
+The time 30.400000 seconds was added to the list at position 27
+The System time is 760 Hundreds of Milliseconds.
+
+The processor is about to take an input. The System time is 760.
+ 
+The processor is currently working on:
+ProcessID 7999 with an arrivalTime 456 and a CPU Time of 2. 
+
+Process 7999 has completed in 30.600000 seconds. It started at 45.600000 and ended at 76.200000. 
+The time 30.600000 seconds was added to the list at position 28
+The System time is 762 Hundreds of Milliseconds.
+
+The processor is about to take an input. The System time is 762.
+ 
+The processor is currently working on:
+ProcessID 4451 with an arrivalTime 456 and a CPU Time of 40. 
+
+Process 4451 has completed in 34.600000 seconds. It started at 45.600000 and ended at 80.200000. 
+The time 34.600000 seconds was added to the list at position 29
+The System time is 802 Hundreds of Milliseconds.
+
+The processor is about to take an input. The System time is 802.
+ 
+The processor is currently working on:
+ProcessID 7909 with an arrivalTime 458 and a CPU Time of 2. 
+
+Process 7909 has completed in 34.600000 seconds. It started at 45.800000 and ended at 80.400000. 
+The time 34.600000 seconds was added to the list at position 30
+The System time is 804 Hundreds of Milliseconds.
+
+The processor is about to take an input. The System time is 804.
+ 
+The processor is currently working on:
+ProcessID 7989 with an arrivalTime 460 and a CPU Time of 2. 
+
+Process 7989 has completed in 34.600000 seconds. It started at 46.000000 and ended at 80.600000. 
+The time 34.600000 seconds was added to the list at position 31
+The System time is 806 Hundreds of Milliseconds.
+
+The processor is about to take an input. The System time is 806.
+ 
+The processor is currently working on:
+ProcessID 7979 with an arrivalTime 461 and a CPU Time of 1. 
+
+Process 7979 has completed in 34.600000 seconds. It started at 46.100000 and ended at 80.700000. 
+The time 34.600000 seconds was added to the list at position 32
+The System time is 807 Hundreds of Milliseconds.
+
+The processor is about to take an input. The System time is 807.
+ 
+The processor is currently working on:
+ProcessID 7919 with an arrivalTime 461 and a CPU Time of 1. 
+
+Process 7919 has completed in 34.700000 seconds. It started at 46.100000 and ended at 80.800000. 
+The time 34.700000 seconds was added to the list at position 33
+The System time is 808 Hundreds of Milliseconds.
+
+The processor is about to take an input. The System time is 808.
+ 
+The processor is currently working on:
+ProcessID 7929 with an arrivalTime 462 and a CPU Time of 2. 
+
+Process 7929 has completed in 34.800000 seconds. It started at 46.200000 and ended at 81.000000. 
+The time 34.800000 seconds was added to the list at position 34
+The System time is 810 Hundreds of Milliseconds.
+
+The processor is about to take an input. The System time is 810.
+ 
+The processor is currently working on:
+ProcessID 1 with an arrivalTime 500 and a CPU Time of 190. 
+
+Process    1 has completed in 50.000000 seconds. It started at 50.000000 and ended at 100.000000. 
+The time 50.000000 seconds was added to the list at position 35
+The System time is 1000 Hundreds of Milliseconds.
+
+The processor is about to take an input. The System time is 1000.
+ 
+The processor is currently working on:
+ProcessID 77 with an arrivalTime 501 and a CPU Time of 10. 
+
+Process   77 has completed in 50.900000 seconds. It started at 50.100000 and ended at 101.000000. 
+The time 50.900000 seconds was added to the list at position 36
+The System time is 1010 Hundreds of Milliseconds.
+
+Mean of this data: 13.561111 Variance: 245.197302

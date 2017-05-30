@@ -1,0 +1,22 @@
+Please provide the process 1 in the form: processID, arrivalTime, CPUTime
+Please provide the process 2 in the form: processID, arrivalTime, CPUTime
+Please provide the process 3 in the form: processID, arrivalTime, CPUTime
+Please provide the process 4 in the form: processID, arrivalTime, CPUTime
+Please provide the process 5 in the form: processID, arrivalTime, CPUTime
+Please provide the process 6 in the form: processID, arrivalTime, CPUTime
+Please provide the process 7 in the form: processID, arrivalTime, CPUTime
+Please provide the process 8 in the form: processID, arrivalTime, CPUTime
+Please provide the process 9 in the form: processID, arrivalTime, CPUTime
+Please provide the process 10 in the form: processID, arrivalTime, CPUTime
+This node has processID 7 with an arrivalTime 0 and a CPU Time of 5 
+This node has processID 10109 with an arrivalTime 1 and a CPU Time of 99 
+The events follow as 
+Process ID: 20166, arrivalTime: 1, and CPUTime: 100.
+Process ID: 18732, arrivalTime: 7, and CPUTime: 7.
+Process ID: 21213, arrivalTime: 10, and CPUTime: 16.
+Process ID: 14465, arrivalTime: 10, and CPUTime: 1.
+Process ID: 11111, arrivalTime: 11, and CPUTime: 111.
+Process ID: 21214, arrivalTime: 18, and CPUTime: 345.
+Process ID: 65437, arrivalTime: 20, and CPUTime: 22.
+Process ID: 88888, arrivalTime: 88, and CPUTime: 8.
+End of List

@@ -1,0 +1,7 @@
+This is a sentence.
+Here is a brand new line.
+
+Another line is here, separated by a new line from the last.
+Here is one more line.
+Can't be real, can it?
+This is the last line.

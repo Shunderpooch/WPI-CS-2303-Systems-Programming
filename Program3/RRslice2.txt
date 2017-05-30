@@ -1,0 +1,179 @@
+Please provide the process 1 in the form: processID, arrivalTime, CPUTime
+Please provide the process 2 in the form: processID, arrivalTime, CPUTime
+Please provide the process 3 in the form: processID, arrivalTime, CPUTime
+Please provide the process 4 in the form: processID, arrivalTime, CPUTime
+Please provide the process 5 in the form: processID, arrivalTime, CPUTime
+Please provide the process 6 in the form: processID, arrivalTime, CPUTime
+Please provide the process 7 in the form: processID, arrivalTime, CPUTime
+Please provide the process 8 in the form: processID, arrivalTime, CPUTime
+Please provide the process 9 in the form: processID, arrivalTime, CPUTime
+Please provide the process 10 in the form: processID, arrivalTime, CPUTime
+Please provide the process 11 in the form: processID, arrivalTime, CPUTime
+Please provide the process 12 in the form: processID, arrivalTime, CPUTime
+Please provide the process 13 in the form: processID, arrivalTime, CPUTime
+Please provide the process 14 in the form: processID, arrivalTime, CPUTime
+Please provide the process 15 in the form: processID, arrivalTime, CPUTime
+Please provide the process 16 in the form: processID, arrivalTime, CPUTime
+Please provide the process 17 in the form: processID, arrivalTime, CPUTime
+Please provide the process 18 in the form: processID, arrivalTime, CPUTime
+Please provide the process 19 in the form: processID, arrivalTime, CPUTime
+Please provide the process 20 in the form: processID, arrivalTime, CPUTime
+Please provide the process 21 in the form: processID, arrivalTime, CPUTime
+Please provide the process 22 in the form: processID, arrivalTime, CPUTime
+Please provide the process 23 in the form: processID, arrivalTime, CPUTime
+Please provide the process 24 in the form: processID, arrivalTime, CPUTime
+Please provide the process 25 in the form: processID, arrivalTime, CPUTime
+Please provide the process 26 in the form: processID, arrivalTime, CPUTime
+Please provide the process 27 in the form: processID, arrivalTime, CPUTime
+Please provide the process 28 in the form: processID, arrivalTime, CPUTime
+Please provide the process 29 in the form: processID, arrivalTime, CPUTime
+Please provide the process 30 in the form: processID, arrivalTime, CPUTime
+Please provide the process 31 in the form: processID, arrivalTime, CPUTime
+Please provide the process 32 in the form: processID, arrivalTime, CPUTime
+Please provide the process 33 in the form: processID, arrivalTime, CPUTime
+Please provide the process 34 in the form: processID, arrivalTime, CPUTime
+Please provide the process 35 in the form: processID, arrivalTime, CPUTime
+Please provide the process 36 in the form: processID, arrivalTime, CPUTime
+
+Process    7 has completed in 0.800000 seconds. It started at 0.000000 and ended at 0.800000. 
+
+Process 2007 has completed in 2.100000 seconds. It started at 0.300000 and ended at 2.400000. 
+
+Process 2002 has completed in 3.700000 seconds. It started at 0.100000 and ended at 3.800000. 
+
+Process 2005 has completed in 4.000000 seconds. It started at 0.200000 and ended at 4.200000. 
+
+Process 2001 has completed in 5.000000 seconds. It started at 0.000000 and ended at 5.000000. 
+WHERE'S THE NACHOS??? (The Processor has nothing to work on)
+WHERE'S THE NACHOS??? (The Processor has nothing to work on)
+WHERE'S THE NACHOS??? (The Processor has nothing to work on)
+WHERE'S THE NACHOS??? (The Processor has nothing to work on)
+WHERE'S THE NACHOS??? (The Processor has nothing to work on)
+WHERE'S THE NACHOS??? (The Processor has nothing to work on)
+WHERE'S THE NACHOS??? (The Processor has nothing to work on)
+WHERE'S THE NACHOS??? (The Processor has nothing to work on)
+WHERE'S THE NACHOS??? (The Processor has nothing to work on)
+WHERE'S THE NACHOS??? (The Processor has nothing to work on)
+WHERE'S THE NACHOS??? (The Processor has nothing to work on)
+WHERE'S THE NACHOS??? (The Processor has nothing to work on)
+WHERE'S THE NACHOS??? (The Processor has nothing to work on)
+WHERE'S THE NACHOS??? (The Processor has nothing to work on)
+WHERE'S THE NACHOS??? (The Processor has nothing to work on)
+WHERE'S THE NACHOS??? (The Processor has nothing to work on)
+WHERE'S THE NACHOS??? (The Processor has nothing to work on)
+WHERE'S THE NACHOS??? (The Processor has nothing to work on)
+WHERE'S THE NACHOS??? (The Processor has nothing to work on)
+WHERE'S THE NACHOS??? (The Processor has nothing to work on)
+WHERE'S THE NACHOS??? (The Processor has nothing to work on)
+
+Process 1008 has completed in 0.500000 seconds. It started at 7.200000 and ended at 7.700000. 
+
+Process 1006 has completed in 4.800000 seconds. It started at 7.100000 and ended at 11.900000. 
+
+Process 1010 has completed in 7.600000 seconds. It started at 8.000000 and ended at 15.600000. 
+
+Process 1011 has completed in 9.400000 seconds. It started at 8.000000 and ended at 17.400000. 
+
+Process 1111 has completed in 11.900000 seconds. It started at 8.000000 and ended at 19.900000. 
+WHERE'S THE NACHOS??? (The Processor has nothing to work on)
+
+Process 3784 has completed in 0.800000 seconds. It started at 23.000000 and ended at 23.800000. 
+
+Process 3788 has completed in 1.700000 seconds. It started at 23.000000 and ended at 24.700000. 
+
+Process 3777 has completed in 2.000000 seconds. It started at 23.000000 and ended at 25.000000. 
+
+Process 3779 has completed in 2.400000 seconds. It started at 23.000000 and ended at 25.400000. 
+
+Process 3795 has completed in 9.000000 seconds. It started at 23.000000 and ended at 32.000000. 
+
+Process 3772 has completed in 15.000000 seconds. It started at 20.000000 and ended at 35.000000. 
+
+Process 8129 has completed in 1.300000 seconds. It started at 35.100000 and ended at 36.400000. 
+
+Process 8119 has completed in 1.500000 seconds. It started at 35.000000 and ended at 36.500000. 
+WHERE'S THE NACHOS??? (The Processor has nothing to work on)
+WHERE'S THE NACHOS??? (The Processor has nothing to work on)
+WHERE'S THE NACHOS??? (The Processor has nothing to work on)
+WHERE'S THE NACHOS??? (The Processor has nothing to work on)
+WHERE'S THE NACHOS??? (The Processor has nothing to work on)
+WHERE'S THE NACHOS??? (The Processor has nothing to work on)
+WHERE'S THE NACHOS??? (The Processor has nothing to work on)
+WHERE'S THE NACHOS??? (The Processor has nothing to work on)
+WHERE'S THE NACHOS??? (The Processor has nothing to work on)
+WHERE'S THE NACHOS??? (The Processor has nothing to work on)
+WHERE'S THE NACHOS??? (The Processor has nothing to work on)
+WHERE'S THE NACHOS??? (The Processor has nothing to work on)
+WHERE'S THE NACHOS??? (The Processor has nothing to work on)
+WHERE'S THE NACHOS??? (The Processor has nothing to work on)
+WHERE'S THE NACHOS??? (The Processor has nothing to work on)
+WHERE'S THE NACHOS??? (The Processor has nothing to work on)
+WHERE'S THE NACHOS??? (The Processor has nothing to work on)
+WHERE'S THE NACHOS??? (The Processor has nothing to work on)
+WHERE'S THE NACHOS??? (The Processor has nothing to work on)
+WHERE'S THE NACHOS??? (The Processor has nothing to work on)
+WHERE'S THE NACHOS??? (The Processor has nothing to work on)
+WHERE'S THE NACHOS??? (The Processor has nothing to work on)
+WHERE'S THE NACHOS??? (The Processor has nothing to work on)
+WHERE'S THE NACHOS??? (The Processor has nothing to work on)
+WHERE'S THE NACHOS??? (The Processor has nothing to work on)
+WHERE'S THE NACHOS??? (The Processor has nothing to work on)
+WHERE'S THE NACHOS??? (The Processor has nothing to work on)
+WHERE'S THE NACHOS??? (The Processor has nothing to work on)
+WHERE'S THE NACHOS??? (The Processor has nothing to work on)
+WHERE'S THE NACHOS??? (The Processor has nothing to work on)
+WHERE'S THE NACHOS??? (The Processor has nothing to work on)
+WHERE'S THE NACHOS??? (The Processor has nothing to work on)
+WHERE'S THE NACHOS??? (The Processor has nothing to work on)
+WHERE'S THE NACHOS??? (The Processor has nothing to work on)
+WHERE'S THE NACHOS??? (The Processor has nothing to work on)
+
+Process 5000 has completed in 0.200000 seconds. It started at 40.000000 and ended at 40.200000. 
+
+Process 5001 has completed in 0.200000 seconds. It started at 40.100000 and ended at 40.300000. 
+
+Process 5002 has completed in 0.200000 seconds. It started at 40.200000 and ended at 40.400000. 
+
+Process 5007 has completed in 0.400000 seconds. It started at 40.300000 and ended at 40.700000. 
+WHERE'S THE NACHOS??? (The Processor has nothing to work on)
+WHERE'S THE NACHOS??? (The Processor has nothing to work on)
+WHERE'S THE NACHOS??? (The Processor has nothing to work on)
+WHERE'S THE NACHOS??? (The Processor has nothing to work on)
+WHERE'S THE NACHOS??? (The Processor has nothing to work on)
+WHERE'S THE NACHOS??? (The Processor has nothing to work on)
+WHERE'S THE NACHOS??? (The Processor has nothing to work on)
+WHERE'S THE NACHOS??? (The Processor has nothing to work on)
+WHERE'S THE NACHOS??? (The Processor has nothing to work on)
+WHERE'S THE NACHOS??? (The Processor has nothing to work on)
+WHERE'S THE NACHOS??? (The Processor has nothing to work on)
+WHERE'S THE NACHOS??? (The Processor has nothing to work on)
+WHERE'S THE NACHOS??? (The Processor has nothing to work on)
+
+Process 4411 has completed in 1.000000 seconds. It started at 42.000000 and ended at 43.000000. 
+
+Process 4421 has completed in 1.100000 seconds. It started at 42.900000 and ended at 44.000000. 
+
+Process 4431 has completed in 1.200000 seconds. It started at 43.800000 and ended at 45.000000. 
+
+Process 4441 has completed in 1.500000 seconds. It started at 44.700000 and ended at 46.200000. 
+
+Process 7999 has completed in 0.800000 seconds. It started at 45.600000 and ended at 46.400000. 
+
+Process 7909 has completed in 1.200000 seconds. It started at 45.800000 and ended at 47.000000. 
+
+Process 7989 has completed in 1.200000 seconds. It started at 46.000000 and ended at 47.200000. 
+
+Process 7979 has completed in 1.400000 seconds. It started at 46.100000 and ended at 47.500000. 
+
+Process 7919 has completed in 1.700000 seconds. It started at 46.100000 and ended at 47.800000. 
+
+Process 7929 has completed in 1.800000 seconds. It started at 46.200000 and ended at 48.000000. 
+
+Process   77 has completed in 4.100000 seconds. It started at 50.100000 and ended at 54.200000. 
+
+Process 4451 has completed in 13.000000 seconds. It started at 45.600000 and ended at 58.600000. 
+
+Process    1 has completed in 41.600000 seconds. It started at 50.000000 and ended at 91.600000. 
+
+Process 9999 has completed in 55.400000 seconds. It started at 45.600000 and ended at 101.000000. 
+Mean of this data: 5.875000 Variance: 127.278500

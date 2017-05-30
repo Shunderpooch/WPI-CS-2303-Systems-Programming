@@ -1,0 +1,33 @@
+Please input student 1 and their information in the form: 
+ StudentID Grade1 Grade2 Grade3 
+ Please input student 2 and their information in the form: 
+ StudentID Grade1 Grade2 Grade3 
+ Please input student 3 and their information in the form: 
+ StudentID Grade1 Grade2 Grade3 
+ Please input student 4 and their information in the form: 
+ StudentID Grade1 Grade2 Grade3 
+ Please input student 5 and their information in the form: 
+ StudentID Grade1 Grade2 Grade3 
+ Please input student 6 and their information in the form: 
+ StudentID Grade1 Grade2 Grade3 
+ Please input student 7 and their information in the form: 
+ StudentID Grade1 Grade2 Grade3 
+ Please input student 8 and their information in the form: 
+ StudentID Grade1 Grade2 Grade3 
+ Please input student 9 and their information in the form: 
+ StudentID Grade1 Grade2 Grade3 
+ Please input student 10 and their information in the form: 
+ StudentID Grade1 Grade2 Grade3 
+ 
+StudentID|Grade1|Grade2|Grade3|Average|
+---------------------------------------
+       65|  92.0|  86.0|  86.0|   90.3|
+      101|  85.5|  90.0|  90.0|   83.7|
+     2202| 100.0|  87.2|  87.2|   93.1|
+    22227|  96.0|  75.5|  75.5|   85.2|
+    31303|  99.0|  62.0|  62.0|   82.7|
+101010010|   0.0|  91.0|  91.0|   57.3|
+424242428|  77.0|  87.5|  87.5|   80.5|
+700666124|  88.0|  89.0|  89.0|   80.7|
+812345676|  95.0|  87.0|  87.0|   86.0|
+999999999|  99.0| 100.0| 100.0|   99.5|
