@@ -195,6 +195,11 @@ $ make
 ```
 
 #### Running Program 5
-There are several parameters that should be followed closely- change the prog5.txt file to change different source nodes- change these source nodes based on the guidelines of the [Program Description](http://web.cs.wpi.edu/~rek/Systems/C14/Program5_C14.pdf). Sample output is provided [Here](/Program5/output.txt)
+There are several parameters that should be followed closely- change the prog5.txt file to change different source nodes- change these source nodes based on the guidelines of the [Program Description](http://web.cs.wpi.edu/~rek/Systems/C14/Program5_C14.pdf). Sample output is provided [here](/Program5/output.txt).
+
+```bash
+$ ./manetsim [sources] [receivers] [mules] [dimension]
+```
+
 
 
