@@ -12,6 +12,9 @@ The professor above all else encouraged a meaningful understanding of the C comp
 ## The Projects in this Repository
 There were two main sets of assignments for this course, Labs and Programs. Labs were usually simpler, one-off ideas or concepts, and Programs covered a multitude of topics and were significantly more intricate. Below, I'll include a short summary of each Lab and Program we worked on, along with instructions on how to compile them.
 
+## Project Directory
+    [Lab 5 Description](#Lab5): [Lab 5 Source](/Lab5)
+
 ### Lab 1
 This was a simple C program to learn how to work with command-line input, Unix commands, and return a result based on an average of numbers.
 
@@ -168,7 +171,7 @@ $ ./Program4 <[file.txt]
 
 Included in the same folder is sample data such as the US Constitution "US_Constitution.txt" and a simple test "simpletest.txt" that are ideal examples for this program. 
 
-### Lab 5
+### <a name="Lab5"></a>Lab 5
 Lab 5 is mainly preparation for Program 5, a complete MANET Simulation. It is a direct simplification, with non-moving mule nodes from sender to receiver. A sender sends 100 packets of varying transmission time and propogation time across two mules with another sender, all to a receiver, with 100ms simulation time slices, or sims. This lab also helped introduce file readers and build guards.
 For further reading on this lab concept, look [Here](http://web.cs.wpi.edu/~rek/Systems/C14/Lab5_C14.pdf) for a stronger understanding of Lab requirements.
 
