@@ -18,7 +18,15 @@ The order follows as a timeline of coursework: We alternated between simplistic,
 |Project Description|Project Source|Project Readme|
 |:---               |:---          |:---          |
 |[Lab 1 Description](#Lab1)|[Lab 1 Source](/Lab1)|[Lab 1 Readme](/Lab1/README.txt)|
+|[Program 1 Description](#Program1)|[Program 1 Source](/Program1)|[Program 1 Readme](/Program1/README.txt)|
+|[Lab 2 Description](#Lab2)|[Lab 2 Source](/Lab2)|[Lab 2 Readme](/Lab2/README.txt)|
+|[Program 2 Description](#Program2)|[Program 2 Source](/Program2)|[Program 2 Readme](/Program2/README.txt)|
+|[Lab 3 Description](#Lab3)|[Lab 3 Source](/Lab3)|[Lab 3 Readme](/Lab3/README.txt)|
+|[Program 3 Description](#Program3)|[Program 3 Source](/Program3)|[Program 3 Readme](/Program3/README.txt)|
+|[Lab 4 Description](#Lab4)|[Lab 4 Source](/Lab4)|[Lab 4 Readme](/Lab4/README.txt)|
+|[Program 4 Description](#Program4)|[Program 4 Source](/Program4)|[Program 4 Readme](/Program4/README.txt)|
 |[Lab 5 Description](#Lab5)|[Lab 5 Source](/Lab5)|[Lab 5 Readme](/Lab5/README.txt)|
+|[Program 5 Description](#Program5)|[Program 5 Source](/Program5)|[Program 5 Readme](/Program5/README.txt)|
 
 ### <a name="Lab1"></a>Lab 1
 This was a simple C program to learn how to work with command-line input, Unix commands, and return a result based on an average of numbers.
@@ -35,7 +43,7 @@ $ gcc -o Lab1 Lab1.c
 $ ./Lab1
 ```
 
-### Program 1
+### <a name="Program1"></a>Program 1
 Program 1 had us learn functions, syntax, and C variable types. We designed functions that returned the log2(input), and another function that calculated the euclidian distance between elements. We also became familiar with scanf and other C conventions. You can test the program with the included "Program1.txt" text input.
 
 #### Compiling Program 1
@@ -56,7 +64,7 @@ $ ./Program1
 $ ./Program1 <Program1.txt >output.txt
 ```
 
-### Lab 2
+### <a name="Lab2"></a>Lab 2
 Lab 2 was designed to familarize us with Arrays, Makefiles, and the GDB Debugger for our C programs. It moves elements based on a direction integer across the field until it reaches the edge of the field, for the amount of elements passed to it. 
 
 #### Compiling Lab 2
@@ -75,7 +83,7 @@ Test data is included, [Here as Lab2.txt](/Lab2.txt), and can be piped in. Examp
 $ ./Lab2
 ```
 
-### Program 2
+### <a name="Program2"></a>Program 2
 Motion Smashball is a sophisticated and intricate game, with players, directions, player interactions, eliminations of the opponent, and much more. I implemented Version I of Motion Smashball, the most difficult variant of the game.
 More on the Smashball assignment can be found [Here](http://web.cs.wpi.edu/~rek/Systems/C14/Program2_C14.pdf). 
 You should also check out my original readme for the file, located in the Program2 directory.
@@ -94,7 +102,7 @@ Smashball requires no additional parameters. It outputs a lot, so it's very much
 $ ./Program2 >output.txt
 ```
 
-### Lab 3
+### <a name="Lab3"></a>Lab 3
 Lab 3 was designed to teach us a simple First Come, First Serve Queue with an Event List. We can remove from, add to, and print the queue in this lab. This was our preliminary introduction to pointers, and command line arguments. 
 
 #### Compiling Lab 3
@@ -116,7 +124,7 @@ $ ./Lab3 [sources]
 $ ./Lab3 10 <lab3.dat
 ```
 
-### Program 3
+### <a name="Program3"></a>Program 3
 Program 3 was a simulation of a process queue for a processor running a time-sharing operating system, in three different increasing complexities. In this Program, I implemented the first two:
 The First Come First Serve (FCFS) queue was the simplest variant, where every process is scheduled linearly without any concept of timeslices.
 The Round Robin Scheduler was a more realistic representation of an operating system processor queue, where every process is allowed a certain frame of time to be worked on, then brought back to the end of the queue.
@@ -133,7 +141,7 @@ This program is fairly complicated, and has some running options. Refer to the [
 
 Sample output based on various simulation modes are provided in the program folder, including [FCFS Output](/Program3/FCFS.txt), [FCFS Debug Output](/Program3/FCFSdebug.txt), [RR Output](/Program3/RR.txt), and [RR Debug Output](/Program3/RRslice2debug.txt)
 
-### Lab 4
+### <a name="Lab4"></a>Lab 4
 Lab 4 was designed to teach us binary trees and how to print these trees in order. It furthered our understanding of binary trees, pointers, and data structure representation in C. 
 Further reading on the lab description can be found [Here](http://web.cs.wpi.edu/~rek/Systems/C14/Lab4_C14.pdf), on the course website.
 
@@ -152,7 +160,7 @@ $ ./Lab4 [Number of students]
 
 Lab 4 can use the test data "Lab4.dat" as piped input for simple tests.
 
-### Program 4
+### <a name="Program4"></a>Program 4
 Program 4 generated cross references of every word (case-insensitive) that it finds in an ASCII text file with a Binary Search Tree data structure, and sorts these words in order alphabetically, noting the number of occurences of the word and the lines the word occurs on.
 Further insight into this program can be found [Here](http://web.cs.wpi.edu/~rek/Systems/C14/Program4_C14.pdf).
 
@@ -193,7 +201,7 @@ The total time in sending packets increases linearly across the Lab, so you do n
 $ ./Lab5
 ```
 
-### Program 5
+### <a name="Program5"></a>Program 5
 Program 5 is by all means the most complicated program of the course. It combines many aspects of Program 1, Program 2, and Program 3, to design a complete Mobile Ad hoc Network (MANET) Simulation. Specific design decisions and program parameters are outlined in the [Program Description] (http://web.cs.wpi.edu/~rek/Systems/C14/Program5_C14.pdf) and my [Readme for Program 5](/Program5/README.txt).
 
 #### Compiling Program 5
