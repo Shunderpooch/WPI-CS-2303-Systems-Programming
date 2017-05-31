@@ -15,18 +15,18 @@ There were two main sets of assignments for this course, Labs and Programs. Labs
 ## Project Directory
 The order follows as a timeline of coursework: We alternated between simplistic, concept-level labs and larger, more comprehensive and polished projects.
 
-|Project Description|Project Source|Project Readme|
-|:---               |:---          |:---          |
-|[Lab 1 Description](#Lab1)|[Lab 1 Source](/Lab1)|[Lab 1 Readme](/Lab1/README.txt)|
-|[Program 1 Description](#Program1)|[Program 1 Source](/Program1)|[Program 1 Readme](/Program1/README.txt)|
-|[Lab 2 Description](#Lab2)|[Lab 2 Source](/Lab2)|[Lab 2 Readme](/Lab2/README.txt)|
-|[Program 2 Description](#Program2)|[Program 2 Source](/Program2)|[Program 2 Readme](/Program2/README.txt)|
-|[Lab 3 Description](#Lab3)|[Lab 3 Source](/Lab3)|[Lab 3 Readme](/Lab3/README.txt)|
-|[Program 3 Description](#Program3)|[Program 3 Source](/Program3)|[Program 3 Readme](/Program3/README.txt)|
-|[Lab 4 Description](#Lab4)|[Lab 4 Source](/Lab4)|[Lab 4 Readme](/Lab4/README.txt)|
-|[Program 4 Description](#Program4)|[Program 4 Source](/Program4)|[Program 4 Readme](/Program4/README.txt)|
-|[Lab 5 Description](#Lab5)|[Lab 5 Source](/Lab5)|[Lab 5 Readme](/Lab5/README.txt)|
-|[Program 5 Description](#Program5)|[Program 5 Source](/Program5)|[Program 5 Readme](/Program5/README.txt)|
+|Project Name|Project Description|Project Source|Project Readme|
+|:---        |:---               |:---          |:---          |
+|Lab 1|[Description](#Lab1)|[Source](/Lab1)|[Readme](/Lab1/README.txt)|
+|Program 1|[Description](#Program1)|[Source](/Program1)|[Readme](/Program1/README.txt)|
+|Lab 2|[Description](#Lab2)|[Source](/Lab2)|[Readme](/Lab2/README.txt)|
+|Program 2|[Description](#Program2)|[Source](/Program2)|[Readme](/Program2/README.txt)|
+|Lab 3|[Description](#Lab3)|[Source](/Lab3)|[Readme](/Lab3/README.txt)|
+|Program 3|[Description](#Program3)|[Source](/Program3)|[Readme](/Program3/README.txt)|
+|Lab 4|[Description](#Lab4)|[Source](/Lab4)|[Readme](/Lab4/README.txt)|
+|Program 4|[Description](#Program4)|[Source](/Program4)|[Readme](/Program4/README.txt)|
+|Lab 5|[Description](#Lab5)|[Source](/Lab5)|[Readme](/Lab5/README.txt)|
+|Program 5|[Description](#Program5)|[Source](/Program5)|[Readme](/Program5/README.txt)|
 
 ### <a name="Lab1"></a>Lab 1
 This was a simple C program to learn how to work with command-line input, Unix commands, and return a result based on an average of numbers.
